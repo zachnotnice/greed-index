@@ -1,0 +1,1378 @@
+[
+  {
+    "name": "Elon Musk",
+    "slug": "elon-musk",
+    "net_worth_billions": 232.0,
+    "industry": "Technology / Aerospace",
+    "wealth_source": "Tesla, SpaceX, X (Twitter)",
+    "company": "Tesla / SpaceX",
+    "twitter_handle": "elonmusk",
+    "birth_year": 1971,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 22.0,
+    "bio_blurb": "World's wealthiest person. Founded or co-founded Tesla, SpaceX, and Neuralink. Has given approximately 0.04% of his peak net worth to charity.",
+    "donations": [
+      {
+        "organization_name": "Musk Foundation",
+        "amount_billions": 0.1,
+        "year": 2023,
+        "donation_type": "foundation",
+        "organization": {
+          "name": "Musk Foundation",
+          "cause_category": "renewable_energy",
+          "overhead_ratio_pct": 8.0,
+          "payout_ratio_pct": 6.0
+        }
+      },
+      {
+        "organization_name": "X Prize Foundation",
+        "amount_billions": 0.01,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "organization": {
+          "name": "X Prize Foundation",
+          "cause_category": "science"
+        }
+      },
+      {
+        "organization_name": "America PAC (political)",
+        "amount_billions": 0.25,
+        "year": 2024,
+        "donation_type": "political",
+        "organization": {
+          "name": "America PAC",
+          "cause_category": "political"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Jeff Bezos",
+    "slug": "jeff-bezos",
+    "net_worth_billions": 167.0,
+    "industry": "Technology / Retail",
+    "wealth_source": "Amazon",
+    "company": "Amazon",
+    "twitter_handle": "JeffBezos",
+    "birth_year": 1964,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 12.0,
+    "bio_blurb": "Founder of Amazon and Blue Origin. Pledged $10 billion to the Bezos Earth Fund in 2020 \u2014 a 10-year pledge representing less than 6% of his net worth at the time.",
+    "donations": [
+      {
+        "organization_name": "Bezos Earth Fund",
+        "amount_billions": 2.0,
+        "year": 2023,
+        "donation_type": "foundation",
+        "organization": {
+          "name": "Bezos Earth Fund",
+          "cause_category": "climate",
+          "overhead_ratio_pct": 12.0,
+          "payout_ratio_pct": 20.0
+        }
+      },
+      {
+        "organization_name": "Day One Fund",
+        "amount_billions": 0.1,
+        "year": 2022,
+        "donation_type": "foundation",
+        "organization": {
+          "name": "Day One Fund",
+          "cause_category": "poverty",
+          "overhead_ratio_pct": 10.0,
+          "payout_ratio_pct": 15.0
+        }
+      }
+    ]
+  },
+  {
+    "name": "Mark Zuckerberg",
+    "slug": "mark-zuckerberg",
+    "net_worth_billions": 161.0,
+    "industry": "Technology / Social Media",
+    "wealth_source": "Meta (Facebook)",
+    "company": "Meta",
+    "twitter_handle": "finkd",
+    "birth_year": 1984,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 18.0,
+    "bio_blurb": "CEO of Meta. The Chan Zuckerberg Initiative is structured as an LLC \u2014 not a foundation \u2014 meaning no mandatory payout, no IRS transparency, and Zuckerberg retains full control. His $45B pledge is in Meta stock over his lifetime.",
+    "donations": [
+      {
+        "organization_name": "Chan Zuckerberg Initiative",
+        "amount_billions": 3.0,
+        "year": 2023,
+        "donation_type": "charitable_llc",
+        "organization": {
+          "name": "Chan Zuckerberg Initiative",
+          "cause_category": "education",
+          "is_transparent": false
+        }
+      },
+      {
+        "organization_name": "Silicon Valley Community Foundation",
+        "amount_billions": 0.3,
+        "year": 2022,
+        "donation_type": "donor_advised_fund",
+        "organization": {
+          "name": "Silicon Valley Community Foundation",
+          "cause_category": "education"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Larry Ellison",
+    "slug": "larry-ellison",
+    "net_worth_billions": 141.0,
+    "industry": "Technology / Enterprise Software",
+    "wealth_source": "Oracle",
+    "company": "Oracle",
+    "birth_year": 1944,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 14.0,
+    "bio_blurb": "Co-founder of Oracle and the world's 4th wealthiest person. Despite signing the Giving Pledge in 2010, has given a tiny fraction of his wealth. Spends billions on personal real estate, including buying 98% of Lanai, Hawaii.",
+    "donations": [
+      {
+        "organization_name": "Ellison Medical Foundation",
+        "amount_billions": 0.05,
+        "year": 2022,
+        "donation_type": "foundation",
+        "organization": {
+          "name": "Ellison Medical Foundation",
+          "cause_category": "healthcare",
+          "overhead_ratio_pct": 15.0,
+          "payout_ratio_pct": 8.0
+        }
+      },
+      {
+        "organization_name": "University of Southern California",
+        "amount_billions": 0.2,
+        "year": 2016,
+        "donation_type": "naming_rights",
+        "organization": {
+          "name": "USC Ellison Institute",
+          "cause_category": "universities"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Warren Buffett",
+    "slug": "warren-buffett",
+    "net_worth_billions": 119.0,
+    "industry": "Finance / Investing",
+    "wealth_source": "Berkshire Hathaway",
+    "company": "Berkshire Hathaway",
+    "birth_year": 1930,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": true,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "CEO of Berkshire Hathaway. Has pledged to give away 99% of his wealth and donated over $50B to date \u2014 primarily to the Bill & Melinda Gates Foundation and his children's foundations. Among the most genuinely generous billionaires.",
+    "donations": [
+      {
+        "organization_name": "Bill & Melinda Gates Foundation",
+        "amount_billions": 4.6,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "organization": {
+          "name": "Bill & Melinda Gates Foundation",
+          "cause_category": "global_health",
+          "overhead_ratio_pct": 6.0,
+          "payout_ratio_pct": 100.0
+        }
+      },
+      {
+        "organization_name": "Susan Thompson Buffett Foundation",
+        "amount_billions": 0.8,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "organization": {
+          "name": "Susan Thompson Buffett Foundation",
+          "cause_category": "poverty",
+          "overhead_ratio_pct": 4.0,
+          "payout_ratio_pct": 95.0
+        }
+      }
+    ]
+  },
+  {
+    "name": "Bill Gates",
+    "slug": "bill-gates",
+    "net_worth_billions": 108.0,
+    "industry": "Technology",
+    "wealth_source": "Microsoft",
+    "company": "Microsoft (former)",
+    "twitter_handle": "BillGates",
+    "birth_year": 1955,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": true,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Co-founder of Microsoft. Has given away over $59B through the Bill & Melinda Gates Foundation, focused on global health, poverty, and US education. One of history's most significant philanthropists \u2014 though the foundation's ties to pharmaceutical interests raise questions about agenda-setting.",
+    "donations": [
+      {
+        "organization_name": "Bill & Melinda Gates Foundation",
+        "amount_billions": 5.0,
+        "year": 2023,
+        "donation_type": "foundation",
+        "organization": {
+          "name": "Bill & Melinda Gates Foundation",
+          "cause_category": "global_health",
+          "overhead_ratio_pct": 10.0,
+          "payout_ratio_pct": 100.0
+        }
+      }
+    ]
+  },
+  {
+    "name": "Michael Bloomberg",
+    "slug": "michael-bloomberg",
+    "net_worth_billions": 94.0,
+    "industry": "Finance / Media",
+    "wealth_source": "Bloomberg LP",
+    "company": "Bloomberg LP",
+    "twitter_handle": "MikeBloomberg",
+    "birth_year": 1942,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": true,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Founder of Bloomberg LP and former NYC Mayor. Bloomberg Philanthropies has given over $14B with a focus on public health, climate, and arts. One of the more genuinely active philanthropists in the top 10.",
+    "donations": [
+      {
+        "organization_name": "Bloomberg Philanthropies",
+        "amount_billions": 3.0,
+        "year": 2023,
+        "donation_type": "foundation",
+        "organization": {
+          "name": "Bloomberg Philanthropies",
+          "cause_category": "climate",
+          "overhead_ratio_pct": 8.0,
+          "payout_ratio_pct": 100.0
+        }
+      },
+      {
+        "organization_name": "Sierra Club",
+        "amount_billions": 0.15,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "organization": {
+          "name": "Sierra Club",
+          "cause_category": "climate"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Larry Page",
+    "slug": "larry-page",
+    "net_worth_billions": 99.0,
+    "industry": "Technology",
+    "wealth_source": "Google / Alphabet",
+    "company": "Alphabet",
+    "birth_year": 1973,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 13.0,
+    "bio_blurb": "Co-founder of Google. Despite his massive wealth, Page has been notably absent from philanthropy. The Carl Victor Page Memorial Foundation gives sporadically and at levels far below peers. He has not signed the Giving Pledge.",
+    "donations": [
+      {
+        "organization_name": "Carl Victor Page Memorial Foundation",
+        "amount_billions": 0.04,
+        "year": 2022,
+        "donation_type": "foundation",
+        "organization": {
+          "name": "Carl Victor Page Memorial Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Sergey Brin",
+    "slug": "sergey-brin",
+    "net_worth_billions": 95.0,
+    "industry": "Technology",
+    "wealth_source": "Google / Alphabet",
+    "company": "Alphabet",
+    "birth_year": 1973,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 13.0,
+    "bio_blurb": "Google co-founder who signed the Giving Pledge in 2010. The Brin Wojcicki Foundation has given modestly relative to his net worth, primarily to medical research and disaster relief.",
+    "donations": [
+      {
+        "organization_name": "Brin Wojcicki Foundation",
+        "amount_billions": 0.08,
+        "year": 2022,
+        "donation_type": "foundation",
+        "organization": {
+          "name": "Brin Wojcicki Foundation",
+          "cause_category": "healthcare",
+          "overhead_ratio_pct": 12.0,
+          "payout_ratio_pct": 8.0
+        }
+      }
+    ]
+  },
+  {
+    "name": "Steve Ballmer",
+    "slug": "steve-ballmer",
+    "net_worth_billions": 88.0,
+    "industry": "Technology / Sports",
+    "wealth_source": "Microsoft",
+    "company": "Microsoft (former) / LA Clippers",
+    "twitter_handle": "SteveBalmer",
+    "birth_year": 1956,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": true,
+    "annual_wealth_growth_pct": 10.0,
+    "bio_blurb": "Former Microsoft CEO and owner of the LA Clippers. The Ballmer Group focuses on economic mobility for children and families in the US with a data-driven approach. Considered one of the more impact-focused major philanthropists.",
+    "donations": [
+      {
+        "organization_name": "Ballmer Group",
+        "amount_billions": 0.75,
+        "year": 2023,
+        "donation_type": "foundation",
+        "organization": {
+          "name": "Ballmer Group",
+          "cause_category": "poverty",
+          "overhead_ratio_pct": 9.0,
+          "payout_ratio_pct": 25.0
+        }
+      }
+    ]
+  },
+  {
+    "name": "Jim Walton",
+    "slug": "jim-walton",
+    "net_worth_billions": 77.0,
+    "industry": "Retail / Finance",
+    "wealth_source": "Walmart",
+    "company": "Walmart (heir)",
+    "birth_year": 1948,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "Youngest son of Sam Walton. Runs Arvest Bank. Known for conservative philanthropy relative to his wealth. The Walton Family Foundation primarily funds charter schools \u2014 a philanthropic vehicle that critics argue undermines public education while serving family business interests.",
+    "donations": [
+      {
+        "organization_name": "Walton Family Foundation",
+        "amount_billions": 0.09,
+        "year": 2022,
+        "donation_type": "foundation",
+        "organization": {
+          "name": "Walton Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 11.0,
+          "payout_ratio_pct": 7.0
+        }
+      }
+    ]
+  },
+  {
+    "name": "Rob Walton",
+    "slug": "rob-walton",
+    "net_worth_billions": 68.0,
+    "industry": "Retail",
+    "wealth_source": "Walmart",
+    "company": "Walmart (heir)",
+    "birth_year": 1944,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "Former Walmart chairman and eldest son of Sam Walton. Shares in the Walton Family Foundation with siblings. Relatively low profile philanthropically for someone of his wealth.",
+    "donations": [
+      {
+        "organization_name": "Walton Family Foundation",
+        "amount_billions": 0.09,
+        "year": 2022,
+        "donation_type": "foundation",
+        "organization": {
+          "name": "Walton Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 11.0,
+          "payout_ratio_pct": 7.0
+        }
+      }
+    ]
+  },
+  {
+    "name": "Alice Walton",
+    "slug": "alice-walton",
+    "net_worth_billions": 65.0,
+    "industry": "Retail / Arts",
+    "wealth_source": "Walmart",
+    "company": "Walmart (heir)",
+    "birth_year": 1949,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "Walmart heiress and founder of Crystal Bridges Museum of American Art. Her philanthropy is primarily arts-focused in Bentonville, AR \u2014 building personal legacy infrastructure in a wealthy enclave rather than addressing systemic need.",
+    "donations": [
+      {
+        "organization_name": "Crystal Bridges Museum",
+        "amount_billions": 0.12,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "organization": {
+          "name": "Crystal Bridges Museum",
+          "cause_category": "arts"
+        }
+      },
+      {
+        "organization_name": "Walton Family Foundation",
+        "amount_billions": 0.09,
+        "year": 2022,
+        "donation_type": "foundation",
+        "organization": {
+          "name": "Walton Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 11.0,
+          "payout_ratio_pct": 7.0
+        }
+      }
+    ]
+  },
+  {
+    "name": "Michael Dell",
+    "slug": "michael-dell",
+    "net_worth_billions": 50.0,
+    "industry": "Technology",
+    "wealth_source": "Dell Technologies",
+    "company": "Dell Technologies",
+    "twitter_handle": "MichaelDell",
+    "birth_year": 1965,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": true,
+    "annual_wealth_growth_pct": 9.0,
+    "bio_blurb": "Founder of Dell Technologies. The Michael & Susan Dell Foundation is considered one of the more impact-focused foundations among tech billionaires, concentrating on childhood poverty in US urban areas and global health.",
+    "donations": [
+      {
+        "organization_name": "Michael & Susan Dell Foundation",
+        "amount_billions": 0.35,
+        "year": 2023,
+        "donation_type": "foundation",
+        "organization": {
+          "name": "Michael & Susan Dell Foundation",
+          "cause_category": "poverty",
+          "overhead_ratio_pct": 8.0,
+          "payout_ratio_pct": 18.0
+        }
+      }
+    ]
+  },
+  {
+    "name": "Charles Koch",
+    "slug": "charles-koch",
+    "net_worth_billions": 57.0,
+    "industry": "Energy / Chemicals",
+    "wealth_source": "Koch Industries",
+    "company": "Koch Industries",
+    "birth_year": 1935,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 9.0,
+    "bio_blurb": "CEO of Koch Industries. The Koch network of foundations and political organizations has donated billions \u2014 but primarily to libertarian/deregulatory advocacy that directly benefits Koch Industries' business interests. A significant portion goes to climate denial and anti-labor causes.",
+    "donations": [
+      {
+        "organization_name": "Charles Koch Foundation",
+        "amount_billions": 0.2,
+        "year": 2022,
+        "donation_type": "foundation",
+        "organization": {
+          "name": "Charles Koch Foundation",
+          "cause_category": "political",
+          "overhead_ratio_pct": 22.0,
+          "payout_ratio_pct": 12.0
+        }
+      },
+      {
+        "organization_name": "Americans for Prosperity (political)",
+        "amount_billions": 0.15,
+        "year": 2022,
+        "donation_type": "political",
+        "organization": {
+          "name": "Americans for Prosperity",
+          "cause_category": "political"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ken Griffin",
+    "slug": "ken-griffin",
+    "net_worth_billions": 35.0,
+    "industry": "Finance / Hedge Funds",
+    "wealth_source": "Citadel",
+    "company": "Citadel",
+    "birth_year": 1968,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 16.0,
+    "bio_blurb": "Founder of Citadel hedge fund. Griffin has donated to museums and universities with naming rights attached. Also spent $300M+ on personal real estate and $700M on private art. Much of his philanthropy is legacy-building in elite institutions.",
+    "donations": [
+      {
+        "organization_name": "Harvard (Griffin School of Arts)",
+        "amount_billions": 0.3,
+        "year": 2023,
+        "donation_type": "naming_rights",
+        "organization": {
+          "name": "Harvard University",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Field Museum of Natural History",
+        "amount_billions": 0.1,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "organization": {
+          "name": "Field Museum",
+          "cause_category": "arts"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Stephen Schwarzman",
+    "slug": "stephen-schwarzman",
+    "net_worth_billions": 40.0,
+    "industry": "Finance / Private Equity",
+    "wealth_source": "Blackstone",
+    "company": "Blackstone",
+    "twitter_handle": "schwarzmansteve",
+    "birth_year": 1947,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 14.0,
+    "bio_blurb": "Co-founder of Blackstone. Has donated over $1B \u2014 largely to elite institutions like MIT, Yale, Oxford, and the NY Public Library with his name attached to each. Critics note that donations to elite universities primarily serve the ultra-wealthy and accelerate inequality.",
+    "donations": [
+      {
+        "organization_name": "MIT (Schwarzman College of Computing)",
+        "amount_billions": 0.35,
+        "year": 2018,
+        "donation_type": "naming_rights",
+        "organization": {
+          "name": "MIT",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Oxford (Schwarzman Centre)",
+        "amount_billions": 0.185,
+        "year": 2019,
+        "donation_type": "naming_rights",
+        "organization": {
+          "name": "Oxford University",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "New York Public Library",
+        "amount_billions": 0.1,
+        "year": 2023,
+        "donation_type": "naming_rights",
+        "organization": {
+          "name": "New York Public Library",
+          "cause_category": "arts"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ray Dalio",
+    "slug": "ray-dalio",
+    "net_worth_billions": 16.0,
+    "industry": "Finance / Hedge Funds",
+    "wealth_source": "Bridgewater Associates",
+    "company": "Bridgewater Associates",
+    "twitter_handle": "raydalio",
+    "birth_year": 1949,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 9.0,
+    "bio_blurb": "Founder of Bridgewater Associates. The Dalio Foundation focuses on ocean conservation and education. Primarily operates through DAFs and has received criticism for structuring giving to maximize tax advantages while maintaining control.",
+    "donations": [
+      {
+        "organization_name": "Dalio Philanthropies",
+        "amount_billions": 0.12,
+        "year": 2023,
+        "donation_type": "donor_advised_fund",
+        "organization": {
+          "name": "Dalio Philanthropies",
+          "cause_category": "environment"
+        }
+      }
+    ]
+  },
+  {
+    "name": "David Geffen",
+    "slug": "david-geffen",
+    "net_worth_billions": 8.0,
+    "industry": "Entertainment / Music",
+    "wealth_source": "Geffen Records, DreamWorks",
+    "company": "Various",
+    "birth_year": 1943,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Music and entertainment mogul. Major donor to UCLA (Geffen School of Medicine) and Lincoln Center \u2014 largely legacy-building in elite cultural institutions. Owns the world's largest privately-owned superyacht.",
+    "donations": [
+      {
+        "organization_name": "UCLA Geffen School of Medicine",
+        "amount_billions": 0.2,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "organization": {
+          "name": "UCLA",
+          "cause_category": "universities"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Phil Knight",
+    "slug": "phil-knight",
+    "net_worth_billions": 38.0,
+    "industry": "Consumer Goods / Sports",
+    "wealth_source": "Nike",
+    "company": "Nike",
+    "birth_year": 1938,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "Nike co-founder. Has given significantly to University of Oregon and Stanford \u2014 both with his name attached. A significant portion of Knight's philanthropy funds elite universities and athletic facilities rather than addressing poverty or public health.",
+    "donations": [
+      {
+        "organization_name": "University of Oregon (Knight Campus)",
+        "amount_billions": 0.5,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "organization": {
+          "name": "University of Oregon",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Stanford University",
+        "amount_billions": 0.4,
+        "year": 2021,
+        "donation_type": "naming_rights",
+        "organization": {
+          "name": "Stanford University",
+          "cause_category": "universities"
+        }
+      }
+    ]
+  },
+  {
+    "name": "MacKenzie Scott",
+    "slug": "mackenzie-scott",
+    "net_worth_billions": 37.0,
+    "industry": "Philanthropy",
+    "wealth_source": "Amazon (divorce)",
+    "company": "N/A",
+    "twitter_handle": "MacKenzieScott",
+    "birth_year": 1970,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": true,
+    "annual_wealth_growth_pct": 5.0,
+    "bio_blurb": "Ex-wife of Jeff Bezos who has given away over $17B since 2019 in unrestricted grants to nonprofits \u2014 at a pace and scale unmatched by nearly any other billionaire. Uses a trust model with minimal overhead. A genuine outlier in billionaire philanthropy.",
+    "donations": [
+      {
+        "organization_name": "Various nonprofits (unrestricted grants)",
+        "amount_billions": 2.15,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "organization": {
+          "name": "Multiple Organizations",
+          "cause_category": "poverty",
+          "overhead_ratio_pct": 2.0,
+          "payout_ratio_pct": 100.0
+        }
+      },
+      {
+        "organization_name": "Various nonprofits (unrestricted grants)",
+        "amount_billions": 3.9,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "organization": {
+          "name": "Multiple Organizations",
+          "cause_category": "poverty",
+          "overhead_ratio_pct": 2.0,
+          "payout_ratio_pct": 100.0
+        }
+      }
+    ]
+  },
+  {
+    "name": "Rupert Murdoch",
+    "slug": "rupert-murdoch",
+    "net_worth_billions": 17.0,
+    "industry": "Media",
+    "wealth_source": "News Corp, Fox Corporation",
+    "company": "News Corp",
+    "birth_year": 1931,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 5.0,
+    "bio_blurb": "Founder of News Corp and Fox Corporation. Has given minimally to charity relative to his net worth. His media empire has been accused of spreading misinformation that undermines public health and democratic institutions \u2014 negative social externalities not offset by limited giving.",
+    "donations": [
+      {
+        "organization_name": "Murdoch Children's Research Institute",
+        "amount_billions": 0.01,
+        "year": 2022,
+        "donation_type": "foundation",
+        "organization": {
+          "name": "Murdoch Children's Research Institute",
+          "cause_category": "healthcare"
+        }
+      }
+    ]
+  },
+  {
+    "name": "John Mars",
+    "slug": "john-mars",
+    "net_worth_billions": 37.0,
+    "industry": "Consumer Goods / Food",
+    "wealth_source": "Mars, Inc.",
+    "company": "Mars, Inc.",
+    "birth_year": 1935,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Member of the Mars candy fortune family. Minimal documented philanthropy relative to his massive wealth. The Mars family is notable for privacy and for keeping wealth largely within the family.",
+    "donations": [
+      {
+        "organization_name": "Smithsonian Institution",
+        "amount_billions": 0.02,
+        "year": 2020,
+        "donation_type": "direct_grant",
+        "organization": {
+          "name": "Smithsonian Institution",
+          "cause_category": "arts"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Jacqueline Mars",
+    "slug": "jacqueline-mars",
+    "net_worth_billions": 36.0,
+    "industry": "Consumer Goods / Food",
+    "wealth_source": "Mars, Inc.",
+    "company": "Mars, Inc.",
+    "birth_year": 1939,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Granddaughter of Mars, Inc. founder. Has given to equestrian causes. Minimal documented philanthropy at the scale of her wealth.",
+    "donations": [
+      {
+        "organization_name": "US Equestrian Foundation",
+        "amount_billions": 0.005,
+        "year": 2021,
+        "donation_type": "direct_grant",
+        "organization": {
+          "name": "US Equestrian Foundation",
+          "cause_category": "arts"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Jensen Huang",
+    "slug": "jensen-huang",
+    "net_worth_billions": 80.0,
+    "industry": "Technology / Semiconductors",
+    "wealth_source": "NVIDIA",
+    "company": "NVIDIA",
+    "twitter_handle": "jensenhuang",
+    "birth_year": 1963,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 45.0,
+    "bio_blurb": "CEO of NVIDIA, whose net worth exploded during the AI boom. Has given modestly to Oregon State and Stanford. As one of the fastest-growing fortunes in history, his giving rate has not kept pace.",
+    "donations": [
+      {
+        "organization_name": "Oregon State University",
+        "amount_billions": 0.05,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "organization": {
+          "name": "Oregon State University",
+          "cause_category": "education",
+          "overhead_ratio_pct": 10.0
+        }
+      },
+      {
+        "organization_name": "Stanford University",
+        "amount_billions": 0.03,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "organization": {
+          "name": "Stanford University",
+          "cause_category": "universities"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Michael Bloomberg",
+    "slug": "michael-bloomberg",
+    "net_worth_billions": 94.0,
+    "industry": "Finance / Media",
+    "wealth_source": "Bloomberg LP",
+    "company": "Bloomberg LP",
+    "twitter_handle": "MikeBloomberg",
+    "birth_year": 1942,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": true,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Founder of Bloomberg LP and former NYC Mayor. Bloomberg Philanthropies has given over $14B with a focus on public health, climate, and arts.",
+    "donations": [
+      {
+        "organization_name": "Bloomberg Philanthropies",
+        "amount_billions": 3.0,
+        "year": 2023,
+        "donation_type": "foundation",
+        "organization": {
+          "name": "Bloomberg Philanthropies",
+          "cause_category": "climate",
+          "overhead_ratio_pct": 8.0,
+          "payout_ratio_pct": 100.0
+        }
+      }
+    ]
+  },
+  {
+    "name": "Len Blavatnik",
+    "slug": "len-blavatnik",
+    "net_worth_billions": 28.0,
+    "industry": "Chemicals / Media / Music",
+    "wealth_source": "Access Industries, Warner Music",
+    "company": "Access Industries",
+    "birth_year": 1957,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 10.0,
+    "bio_blurb": "Ukrainian-born billionaire. Major donor to Harvard (Blavatnik School of Government at Oxford). Primarily gives to elite universities with naming rights attached.",
+    "donations": [
+      {
+        "organization_name": "Oxford (Blavatnik School of Government)",
+        "amount_billions": 0.15,
+        "year": 2021,
+        "donation_type": "naming_rights",
+        "organization": {
+          "name": "Oxford Blavatnik School",
+          "cause_category": "universities"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Peter Thiel",
+    "slug": "peter-thiel",
+    "net_worth_billions": 9.0,
+    "industry": "Technology / Finance",
+    "wealth_source": "PayPal, Palantir",
+    "company": "Palantir / Founders Fund",
+    "birth_year": 1967,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 12.0,
+    "bio_blurb": "PayPal co-founder and venture capitalist. Has given primarily to libertarian political causes, anti-immigration campaigns, and life-extension research. Much of his 'philanthropy' serves his ideological agenda rather than broad social benefit.",
+    "donations": [
+      {
+        "organization_name": "Mises Institute (libertarian think tank)",
+        "amount_billions": 0.01,
+        "year": 2022,
+        "donation_type": "political",
+        "organization": {
+          "name": "Mises Institute",
+          "cause_category": "political"
+        }
+      },
+      {
+        "organization_name": "SENS Research Foundation",
+        "amount_billions": 0.005,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "organization": {
+          "name": "SENS Research Foundation",
+          "cause_category": "healthcare"
+        }
+      }
+    ]
+  },
+  {
+    "name": "John Paulson",
+    "slug": "john-paulson",
+    "net_worth_billions": 4.0,
+    "industry": "Finance / Hedge Funds",
+    "wealth_source": "Paulson & Co.",
+    "company": "Paulson & Co.",
+    "birth_year": 1955,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "Hedge fund manager famous for shorting subprime mortgages in 2008. Gave $400M to Harvard in 2015 \u2014 the largest gift in Harvard's history at the time. Critics noted Harvard's $36B endowment hardly needed the funds compared to underfunded public institutions.",
+    "donations": [
+      {
+        "organization_name": "Harvard School of Engineering (Paulson School)",
+        "amount_billions": 0.4,
+        "year": 2015,
+        "donation_type": "naming_rights",
+        "organization": {
+          "name": "Harvard University",
+          "cause_category": "universities"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Marc Andreessen",
+    "slug": "marc-andreessen",
+    "net_worth_billions": 1.7,
+    "industry": "Technology / Venture Capital",
+    "wealth_source": "Andreessen Horowitz (a16z)",
+    "company": "Andreessen Horowitz",
+    "twitter_handle": "pmarca",
+    "birth_year": 1971,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 15.0,
+    "bio_blurb": "Co-founder of Netscape and a16z venture capital. Extremely vocal online, including publishing a 'Techno-Optimist Manifesto' opposing many forms of altruism and regulation. Documented charitable giving is negligible relative to his wealth.",
+    "donations": [
+      {
+        "organization_name": "Various Silicon Valley causes",
+        "amount_billions": 0.002,
+        "year": 2022,
+        "donation_type": "donor_advised_fund",
+        "organization": {
+          "name": "Silicon Valley Community Foundation",
+          "cause_category": "education"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Sam Altman",
+    "slug": "sam-altman",
+    "net_worth_billions": 2.8,
+    "industry": "Technology / AI",
+    "wealth_source": "OpenAI, Y Combinator",
+    "company": "OpenAI",
+    "twitter_handle": "sama",
+    "birth_year": 1985,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 35.0,
+    "bio_blurb": "CEO of OpenAI and former president of Y Combinator. Claims to work for humanity's benefit through AI. Documented personal charitable giving is minimal; most of his 'impact' is through OpenAI itself \u2014 a company in which he holds substantial equity.",
+    "donations": [
+      {
+        "organization_name": "UBI Research",
+        "amount_billions": 0.001,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "organization": {
+          "name": "OpenResearch",
+          "cause_category": "poverty"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Reed Hastings",
+    "slug": "reed-hastings",
+    "net_worth_billions": 5.0,
+    "industry": "Technology / Entertainment",
+    "wealth_source": "Netflix",
+    "company": "Netflix",
+    "birth_year": 1960,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": true,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "Netflix co-founder. Has given over $1B primarily to education \u2014 though largely to charter schools in a pattern aligned with business-minded education reform rather than fully public systems.",
+    "donations": [
+      {
+        "organization_name": "Education causes (various)",
+        "amount_billions": 0.12,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "organization": {
+          "name": "Various Education Orgs",
+          "cause_category": "education",
+          "overhead_ratio_pct": 8.0
+        }
+      }
+    ]
+  },
+  {
+    "name": "David Tepper",
+    "slug": "david-tepper",
+    "net_worth_billions": 20.0,
+    "industry": "Finance / Hedge Funds",
+    "wealth_source": "Appaloosa Management",
+    "company": "Appaloosa Management",
+    "birth_year": 1957,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 12.0,
+    "bio_blurb": "Hedge fund manager and owner of the Carolina Panthers. Has given to Carnegie Mellon (Tepper School of Business) and other elite institutions. Giving is modest relative to his wealth.",
+    "donations": [
+      {
+        "organization_name": "Carnegie Mellon (Tepper School)",
+        "amount_billions": 0.067,
+        "year": 2020,
+        "donation_type": "naming_rights",
+        "organization": {
+          "name": "Carnegie Mellon University",
+          "cause_category": "universities"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Leon Black",
+    "slug": "leon-black",
+    "net_worth_billions": 9.0,
+    "industry": "Finance / Private Equity",
+    "wealth_source": "Apollo Global Management",
+    "company": "Apollo Global Management",
+    "birth_year": 1951,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 10.0,
+    "bio_blurb": "Co-founder of Apollo Global Management. Gave generously to Dartmouth and MoMA \u2014 but paid Jeffrey Epstein $158M for tax advice, later acknowledged as a serious lapse. Primarily legacy-building philanthropy.",
+    "donations": [
+      {
+        "organization_name": "Dartmouth College",
+        "amount_billions": 0.05,
+        "year": 2021,
+        "donation_type": "naming_rights",
+        "organization": {
+          "name": "Dartmouth College",
+          "cause_category": "universities"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Paul Singer",
+    "slug": "paul-singer",
+    "net_worth_billions": 5.5,
+    "industry": "Finance / Hedge Funds",
+    "wealth_source": "Elliott Management",
+    "company": "Elliott Management",
+    "birth_year": 1944,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 10.0,
+    "bio_blurb": "Founder of Elliott Management, known as a 'vulture fund' that purchased Argentine and Puerto Rican debt at deep discounts and demanded full repayment, extracting billions from struggling sovereign nations. Philanthropically active but primarily in political and Israel-focused causes.",
+    "donations": [
+      {
+        "organization_name": "Republican political causes",
+        "amount_billions": 0.03,
+        "year": 2022,
+        "donation_type": "political",
+        "organization": {
+          "name": "Republican Political Causes",
+          "cause_category": "political"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Jim Simons",
+    "slug": "jim-simons",
+    "net_worth_billions": 29.0,
+    "industry": "Finance / Math",
+    "wealth_source": "Renaissance Technologies",
+    "company": "Renaissance Technologies",
+    "birth_year": 1938,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": true,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Founder of Renaissance Technologies. The Simons Foundation is one of the most substantial science philanthropies, investing over $5B in mathematics, basic science, and autism research. A genuinely impactful philanthropist.",
+    "donations": [
+      {
+        "organization_name": "Simons Foundation",
+        "amount_billions": 0.8,
+        "year": 2023,
+        "donation_type": "foundation",
+        "organization": {
+          "name": "Simons Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 7.0,
+          "payout_ratio_pct": 20.0
+        }
+      }
+    ]
+  },
+  {
+    "name": "Eric Schmidt",
+    "slug": "eric-schmidt",
+    "net_worth_billions": 22.0,
+    "industry": "Technology",
+    "wealth_source": "Google / Alphabet",
+    "company": "Alphabet (former CEO)",
+    "twitter_handle": "ericschmidt",
+    "birth_year": 1955,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 9.0,
+    "bio_blurb": "Former Google CEO. The Schmidt Futures initiative funds science and technology education. Schmidt has been criticized for influence over AI policy through 'philanthropic' funding of government advisory bodies while simultaneously having financial interests in AI companies.",
+    "donations": [
+      {
+        "organization_name": "Schmidt Futures",
+        "amount_billions": 0.15,
+        "year": 2023,
+        "donation_type": "charitable_llc",
+        "organization": {
+          "name": "Schmidt Futures",
+          "cause_category": "education",
+          "is_transparent": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "Andrew Forrest",
+    "slug": "andrew-forrest",
+    "net_worth_billions": 16.0,
+    "industry": "Mining",
+    "wealth_source": "Fortescue Metals",
+    "company": "Fortescue",
+    "birth_year": 1961,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": true,
+    "annual_wealth_growth_pct": 11.0,
+    "bio_blurb": "Australian billionaire and Giving Pledge signatory. One of the more impactful philanthropists among mining billionaires, with significant donations to climate, anti-trafficking, and indigenous causes through the Minderoo Foundation.",
+    "donations": [
+      {
+        "organization_name": "Minderoo Foundation",
+        "amount_billions": 0.5,
+        "year": 2023,
+        "donation_type": "foundation",
+        "organization": {
+          "name": "Minderoo Foundation",
+          "cause_category": "climate",
+          "overhead_ratio_pct": 10.0,
+          "payout_ratio_pct": 20.0
+        }
+      }
+    ]
+  },
+  {
+    "name": "Patrick Collison",
+    "slug": "patrick-collison",
+    "net_worth_billions": 11.0,
+    "industry": "Technology / Fintech",
+    "wealth_source": "Stripe",
+    "company": "Stripe",
+    "twitter_handle": "patrickc",
+    "birth_year": 1988,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 20.0,
+    "bio_blurb": "Stripe CEO and co-founder. Has funded Fast Grants (rapid science funding during COVID), Arc Institute, and other high-impact giving vehicles. Considered one of the most thoughtful philanthropists in tech relative to his age and wealth.",
+    "donations": [
+      {
+        "organization_name": "Arc Institute",
+        "amount_billions": 0.15,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "organization": {
+          "name": "Arc Institute",
+          "cause_category": "healthcare",
+          "overhead_ratio_pct": 8.0
+        }
+      },
+      {
+        "organization_name": "Fast Grants",
+        "amount_billions": 0.05,
+        "year": 2020,
+        "donation_type": "direct_grant",
+        "organization": {
+          "name": "Fast Grants",
+          "cause_category": "pandemic_prevention"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Dustin Moskovitz",
+    "slug": "dustin-moskovitz",
+    "net_worth_billions": 14.0,
+    "industry": "Technology",
+    "wealth_source": "Facebook, Asana",
+    "company": "Asana",
+    "twitter_handle": "moskov",
+    "birth_year": 1984,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": true,
+    "annual_wealth_growth_pct": 12.0,
+    "bio_blurb": "Facebook co-founder who signed the Giving Pledge at 26. Funds Open Philanthropy, one of the most rigorous effective altruism-aligned foundations, focused on pandemic prevention, animal welfare, and AI safety. Among the most genuinely generous at his wealth level.",
+    "donations": [
+      {
+        "organization_name": "Open Philanthropy",
+        "amount_billions": 1.2,
+        "year": 2023,
+        "donation_type": "foundation",
+        "organization": {
+          "name": "Open Philanthropy",
+          "cause_category": "pandemic_prevention",
+          "overhead_ratio_pct": 5.0,
+          "payout_ratio_pct": 30.0
+        }
+      }
+    ]
+  },
+  {
+    "name": "David Sacks",
+    "slug": "david-sacks",
+    "net_worth_billions": 1.5,
+    "industry": "Technology / Venture Capital",
+    "wealth_source": "PayPal, Craft Ventures",
+    "company": "Craft Ventures",
+    "twitter_handle": "davidsacks47",
+    "birth_year": 1972,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 15.0,
+    "bio_blurb": "PayPal co-founder and venture capitalist. Now serving in the Trump administration as AI Czar. Minimal documented charitable giving. Has used social media platform to promote political causes aligned with his investments.",
+    "donations": [
+      {
+        "organization_name": "Minimal documented giving",
+        "amount_billions": 0.001,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "organization": {
+          "name": "Various",
+          "cause_category": "education"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Chamath Palihapitiya",
+    "slug": "chamath-palihapitiya",
+    "net_worth_billions": 1.2,
+    "industry": "Technology / Venture Capital",
+    "wealth_source": "Facebook, Social Capital",
+    "company": "Social Capital",
+    "twitter_handle": "chamath",
+    "birth_year": 1976,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 10.0,
+    "bio_blurb": "Former Facebook executive and SPAC king. Famous for saying he 'doesn't care' about Uyghur concentration camps. Social Capital focuses on technology investment, not philanthropy. Very limited documented charitable giving.",
+    "donations": [
+      {
+        "organization_name": "Oakland Promise",
+        "amount_billions": 0.005,
+        "year": 2021,
+        "donation_type": "direct_grant",
+        "organization": {
+          "name": "Oakland Promise",
+          "cause_category": "education"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Jamie Dimon",
+    "slug": "jamie-dimon",
+    "net_worth_billions": 2.0,
+    "industry": "Finance / Banking",
+    "wealth_source": "JPMorgan Chase",
+    "company": "JPMorgan Chase",
+    "birth_year": 1956,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "CEO of JPMorgan Chase, the largest US bank. Has overseen $30B in corporate 'racial equity commitments' \u2014 largely loans and investments, not genuine philanthropy. Personal giving is modest. JPMorgan paid $13B in settlements for its role in the 2008 financial crisis.",
+    "donations": [
+      {
+        "organization_name": "Various NYC charities",
+        "amount_billions": 0.01,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "organization": {
+          "name": "NYC Charities",
+          "cause_category": "poverty"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ken Langone",
+    "slug": "ken-langone",
+    "net_worth_billions": 7.4,
+    "industry": "Finance / Retail",
+    "wealth_source": "Home Depot co-founder",
+    "company": "Home Depot (co-founder)",
+    "birth_year": 1935,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Home Depot co-founder and Wall Street financier. Has given significantly to NYU Langone Health \u2014 one of the largest hospital naming rights gifts. Critics note this primarily serves the wealthy enclave of NYU and Manhattan.",
+    "donations": [
+      {
+        "organization_name": "NYU Langone Health",
+        "amount_billions": 0.2,
+        "year": 2019,
+        "donation_type": "naming_rights",
+        "organization": {
+          "name": "NYU Langone Health",
+          "cause_category": "hospitals"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Oprah Winfrey",
+    "slug": "oprah-winfrey",
+    "net_worth_billions": 2.9,
+    "industry": "Entertainment / Media",
+    "wealth_source": "Harpo Productions, OWN Network",
+    "company": "Harpo Productions",
+    "twitter_handle": "Oprah",
+    "birth_year": 1954,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Media mogul and philanthropist. Has given over $500M across education, poverty, and disaster relief. Among the most generous non-pledging billionaires relative to net worth. The Oprah Winfrey Foundation focuses on girls' education globally.",
+    "donations": [
+      {
+        "organization_name": "Oprah Winfrey Foundation",
+        "amount_billions": 0.05,
+        "year": 2023,
+        "donation_type": "foundation",
+        "organization": {
+          "name": "Oprah Winfrey Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 7.0,
+          "payout_ratio_pct": 15.0
+        }
+      },
+      {
+        "organization_name": "Maui wildfire relief",
+        "amount_billions": 0.01,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "organization": {
+          "name": "Maui Wildfire Relief Fund",
+          "cause_category": "poverty"
+        }
+      }
+    ]
+  }
+]

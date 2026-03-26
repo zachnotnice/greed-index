@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+
+:root {
+  --background: #0a0a0a;
+  --foreground: #ededed;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: 'Inter', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Greed score meter gradient */
+.greed-gradient {
+  background: linear-gradient(90deg, #22c55e 0%, #eab308 40%, #ef4444 70%, #991b1b 100%);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #111;
+}
+::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* Table row hover */
+.leaderboard-row {
+  transition: background-color 0.15s ease;
+}
+.leaderboard-row:hover {
+  background-color: rgba(255, 255, 255, 0.03);
+}
+
+/* Ticker */
+.ticker-wrap {
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+/* Greed clock pulse */
+.wealth-clock {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Score bar */
+.score-bar {
+  height: 6px;
+  border-radius: 3px;
+  background: linear-gradient(90deg, #22c55e, #ef4444);
+  position: relative;
+}

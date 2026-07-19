@@ -2,7 +2,9 @@ import { api, BillionaireDetail } from "@/lib/api";
 import { notFound } from "next/navigation";
 import { Metadata } from "next";
 import Link from "next/link";
-import GreedMeter, { getTier, getScoreColor } from "@/components/GreedMeter";
+import GreedMeter from "@/components/GreedMeter";
+import CopyLinkButton from "@/components/CopyLinkButton";
+import { getTier, getScoreColor } from "@/lib/tiers";
 import DonationTypeTag from "@/components/DonationTypeTag";
 import WealthClock from "@/components/WealthClock";
 import ImpactCalculator from "@/components/ImpactCalculator";
@@ -307,12 +309,7 @@ export default async function BillionairePage({ params }: Props) {
           >
             Share on X (Twitter)
           </a>
-          <button
-            onClick={() => navigator.clipboard.writeText(window.location.href)}
-            className="bg-white/10 hover:bg-white/20 text-white px-4 py-2 rounded-lg text-sm transition-colors"
-          >
-            Copy Link
-          </button>
+          <CopyLinkButton />
         </div>
       </div>
     </main>

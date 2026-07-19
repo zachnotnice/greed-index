@@ -12,6 +12,7 @@ backend/*.db-wal
 frontend/.next/
 frontend/node_modules/
 frontend/out/
+frontend/*.tsbuildinfo
 
 # Environment
 .env

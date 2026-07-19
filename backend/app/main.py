@@ -1,3 +1,5 @@
+import os
+
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from contextlib import asynccontextmanager
@@ -19,9 +21,16 @@ app = FastAPI(
     lifespan=lifespan,
 )
 
+# Allowed origins: localhost for dev, plus any explicit origins from FRONTEND_URL
+# (comma-separated). Vercel preview/production *.vercel.app domains are matched
+# via regex so deploys work without reconfiguring on every new preview URL.
+_default_origins = ["http://localhost:3000", "http://localhost:3001"]
+_env_origins = [o.strip() for o in os.getenv("FRONTEND_URL", "").split(",") if o.strip()]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "http://localhost:3001"],
+    allow_origins=_default_origins + _env_origins,
+    allow_origin_regex=r"https://.*\.vercel\.app",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

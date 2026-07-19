@@ -74,7 +74,7 @@ def seed():
                 amount_billions=d_data["amount_billions"],
                 year=d_data.get("year"),
                 donation_type=d_data.get("donation_type", "direct_grant"),
-                verified=True,
+                verified=d_data.get("verified", True),
             )
             db.add(donation)
 

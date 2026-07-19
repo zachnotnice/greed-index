@@ -70,6 +70,11 @@ class BillionaireDetail(BaseModel):
     bio_blurb: Optional[str]
     annual_wealth_growth_pct: float
     photo_url: Optional[str]
+    greed_score: Optional[float]
+    greed_rank: Optional[int]
+    adjusted_giving_billions: Optional[float]
+    giving_ratio_pct: Optional[float]
+    loophole_amount_billions: Optional[float]
     donations: list[DonationOut]
     latest_score: Optional[GreedScoreOut]
     wealth_per_second: float

@@ -1,4 +1,8 @@
-const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+// Default to 127.0.0.1 (not "localhost") for local dev: Node's server-side
+// fetch resolves "localhost" to IPv6 ::1 first, but the dev backend binds
+// IPv4, which makes server-component data fetches hang. Production sets
+// NEXT_PUBLIC_API_URL to the real API origin.
+const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://127.0.0.1:8000";
 
 export interface BillionaireListItem {
   id: number;

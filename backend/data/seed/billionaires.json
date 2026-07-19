@@ -824,34 +824,6 @@
     ]
   },
   {
-    "name": "Michael Bloomberg",
-    "slug": "michael-bloomberg",
-    "net_worth_billions": 94.0,
-    "industry": "Finance / Media",
-    "wealth_source": "Bloomberg LP",
-    "company": "Bloomberg LP",
-    "twitter_handle": "MikeBloomberg",
-    "birth_year": 1942,
-    "giving_pledge_signed": true,
-    "giving_pledge_fulfilled": true,
-    "annual_wealth_growth_pct": 7.0,
-    "bio_blurb": "Founder of Bloomberg LP and former NYC Mayor. Bloomberg Philanthropies has given over $14B with a focus on public health, climate, and arts.",
-    "donations": [
-      {
-        "organization_name": "Bloomberg Philanthropies",
-        "amount_billions": 3.0,
-        "year": 2023,
-        "donation_type": "foundation",
-        "organization": {
-          "name": "Bloomberg Philanthropies",
-          "cause_category": "climate",
-          "overhead_ratio_pct": 8.0,
-          "payout_ratio_pct": 100.0
-        }
-      }
-    ]
-  },
-  {
     "name": "Len Blavatnik",
     "slug": "len-blavatnik",
     "net_worth_billions": 28.0,
@@ -1371,6 +1343,5354 @@
         "organization": {
           "name": "Maui Wildfire Relief Fund",
           "cause_category": "poverty"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Lukas Walton",
+    "slug": "lukas-walton",
+    "net_worth_billions": 38.0,
+    "industry": "Retail / Investing",
+    "wealth_source": "Walmart (inherited)",
+    "company": "Walmart",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 9.0,
+    "bio_blurb": "Wealth from Walmart (inherited). Operates a private foundation that distributes near the IRS 5% minimum. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Walton Foundation",
+        "amount_billions": 0.3248,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Walton Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 22.0,
+          "payout_ratio_pct": 4.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Christy Walton",
+    "slug": "christy-walton",
+    "net_worth_billions": 19.0,
+    "industry": "Retail",
+    "wealth_source": "Walmart (inherited)",
+    "company": "Walmart",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Wealth from Walmart (inherited). Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Walton Foundation",
+        "amount_billions": 0.4443,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Walton Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.1111,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Nancy Walton Laurie",
+    "slug": "nancy-walton-laurie",
+    "net_worth_billions": 11.0,
+    "industry": "Retail",
+    "wealth_source": "Walmart (inherited)",
+    "company": "Walmart",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Wealth from Walmart (inherited). Notable gifts are concentrated in naming-rights donations to elite institutions. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Laurie Hall (university naming gift)",
+        "amount_billions": 0.0451,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "verified": false,
+        "organization": {
+          "name": "Laurie Hall (university naming gift)",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Laurie Family Foundation",
+        "amount_billions": 0.0338,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Laurie Family Foundation",
+          "cause_category": "arts",
+          "overhead_ratio_pct": 14.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ann Walton Kroenke",
+    "slug": "ann-walton-kroenke",
+    "net_worth_billions": 12.0,
+    "industry": "Retail / Sports",
+    "wealth_source": "Walmart (inherited)",
+    "company": "Walmart",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Wealth from Walmart (inherited). Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Kroenke Family Foundation",
+        "amount_billions": 0.0097,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Kroenke Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Julia Koch",
+    "slug": "julia-koch",
+    "net_worth_billions": 64.0,
+    "industry": "Energy / Chemicals",
+    "wealth_source": "Koch Industries (inherited)",
+    "company": "Koch Industries",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "Wealth from Koch Industries (inherited). Notable gifts are concentrated in naming-rights donations to elite institutions. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Koch Hall (university naming gift)",
+        "amount_billions": 0.1456,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "verified": false,
+        "organization": {
+          "name": "Koch Hall (university naming gift)",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Koch Family Foundation",
+        "amount_billions": 0.1092,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Koch Family Foundation",
+          "cause_category": "arts",
+          "overhead_ratio_pct": 14.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Victoria Mars",
+    "slug": "victoria-mars",
+    "net_worth_billions": 12.0,
+    "industry": "Consumer Goods / Food",
+    "wealth_source": "Mars Inc. (inherited)",
+    "company": "Mars Inc.",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Mars Inc. (inherited). Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Mars Family Foundation",
+        "amount_billions": 0.0058,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Mars Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Pamela Mars",
+    "slug": "pamela-mars",
+    "net_worth_billions": 12.0,
+    "industry": "Consumer Goods / Food",
+    "wealth_source": "Mars Inc. (inherited)",
+    "company": "Mars Inc.",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Mars Inc. (inherited). Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Mars Family Foundation",
+        "amount_billions": 0.0066,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Mars Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Randa Duncan Williams",
+    "slug": "randa-duncan-williams",
+    "net_worth_billions": 8.0,
+    "industry": "Energy / Pipelines",
+    "wealth_source": "Enterprise Products Partners",
+    "company": "Enterprise Products Partners",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 9.0,
+    "bio_blurb": "Wealth from Enterprise Products Partners. A significant share of 'giving' flows to political advocacy. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Political advocacy (501c4 / PAC)",
+        "amount_billions": 0.0661,
+        "year": 2024,
+        "donation_type": "political",
+        "verified": false,
+        "organization": {
+          "name": "Political advocacy (501c4 / PAC)",
+          "cause_category": "political"
+        }
+      },
+      {
+        "organization_name": "Williams Family Foundation",
+        "amount_billions": 0.022,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Williams Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 16.0,
+          "payout_ratio_pct": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "name": "Scott Duncan",
+    "slug": "scott-duncan",
+    "net_worth_billions": 8.0,
+    "industry": "Energy / Pipelines",
+    "wealth_source": "Enterprise Products Partners",
+    "company": "Enterprise Products Partners",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 9.0,
+    "bio_blurb": "Wealth from Enterprise Products Partners. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Duncan Family Foundation",
+        "amount_billions": 0.0061,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Duncan Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Jack Dorsey",
+    "slug": "jack-dorsey",
+    "net_worth_billions": 5.0,
+    "industry": "Technology / Fintech",
+    "wealth_source": "Block, Twitter",
+    "company": "Block",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Block, Twitter. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Dorsey Foundation",
+        "amount_billions": 0.1212,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Dorsey Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0303,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Marc Benioff",
+    "slug": "marc-benioff",
+    "net_worth_billions": 10.0,
+    "industry": "Technology / Enterprise Software",
+    "wealth_source": "Salesforce",
+    "company": "Salesforce",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": true,
+    "annual_wealth_growth_pct": 11.0,
+    "bio_blurb": "Wealth from Salesforce. Among the more genuine givers \u2014 substantial direct grants to high-impact causes. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Benioff Foundation",
+        "amount_billions": 0.8117,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Benioff Foundation",
+          "cause_category": "global_health"
+        }
+      },
+      {
+        "organization_name": "Direct university scholarships",
+        "amount_billions": 0.2706,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Direct university scholarships",
+          "cause_category": "education"
+        }
+      },
+      {
+        "organization_name": "Disaster & hunger relief",
+        "amount_billions": 0.1353,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Disaster & hunger relief",
+          "cause_category": "hunger"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Reid Hoffman",
+    "slug": "reid-hoffman",
+    "net_worth_billions": 2.5,
+    "industry": "Technology / Venture Capital",
+    "wealth_source": "LinkedIn, Greylock",
+    "company": "LinkedIn",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "Wealth from LinkedIn, Greylock. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Hoffman Foundation",
+        "amount_billions": 0.0324,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Hoffman Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0081,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Pierre Omidyar",
+    "slug": "pierre-omidyar",
+    "net_worth_billions": 9.0,
+    "industry": "Technology / E-commerce",
+    "wealth_source": "eBay",
+    "company": "eBay",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": true,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from eBay. Among the more genuine givers \u2014 substantial direct grants to high-impact causes. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Omidyar Foundation",
+        "amount_billions": 0.6868,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Omidyar Foundation",
+          "cause_category": "global_health"
+        }
+      },
+      {
+        "organization_name": "Direct university scholarships",
+        "amount_billions": 0.2289,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Direct university scholarships",
+          "cause_category": "education"
+        }
+      },
+      {
+        "organization_name": "Disaster & hunger relief",
+        "amount_billions": 0.1145,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Disaster & hunger relief",
+          "cause_category": "hunger"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Jeff Skoll",
+    "slug": "jeff-skoll",
+    "net_worth_billions": 4.5,
+    "industry": "Technology / Film",
+    "wealth_source": "eBay, Participant Media",
+    "company": "eBay",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": true,
+    "annual_wealth_growth_pct": 5.0,
+    "bio_blurb": "Wealth from eBay, Participant Media. Among the more genuine givers \u2014 substantial direct grants to high-impact causes. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Skoll Foundation",
+        "amount_billions": 0.2588,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Skoll Foundation",
+          "cause_category": "global_health"
+        }
+      },
+      {
+        "organization_name": "Direct university scholarships",
+        "amount_billions": 0.0863,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Direct university scholarships",
+          "cause_category": "education"
+        }
+      },
+      {
+        "organization_name": "Disaster & hunger relief",
+        "amount_billions": 0.0431,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Disaster & hunger relief",
+          "cause_category": "hunger"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Jan Koum",
+    "slug": "jan-koum",
+    "net_worth_billions": 15.0,
+    "industry": "Technology / Social Media",
+    "wealth_source": "WhatsApp",
+    "company": "WhatsApp",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Wealth from WhatsApp. Giving is routed largely through donor-advised funds with no payout requirement. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Fidelity Charitable (DAF)",
+        "amount_billions": 0.1719,
+        "year": 2023,
+        "donation_type": "donor_advised_fund",
+        "verified": false,
+        "organization": {
+          "name": "Fidelity Charitable (DAF)",
+          "cause_category": "unspecified"
+        }
+      },
+      {
+        "organization_name": "Koum Family Foundation",
+        "amount_billions": 0.0344,
+        "year": 2022,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Koum Family Foundation",
+          "cause_category": "arts",
+          "overhead_ratio_pct": 15.0,
+          "payout_ratio_pct": 6.0
+        }
+      }
+    ]
+  },
+  {
+    "name": "Brian Acton",
+    "slug": "brian-acton",
+    "net_worth_billions": 4.0,
+    "industry": "Technology / Social Media",
+    "wealth_source": "WhatsApp, Signal",
+    "company": "WhatsApp",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 5.0,
+    "bio_blurb": "Wealth from WhatsApp, Signal. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Acton Foundation",
+        "amount_billions": 0.0454,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Acton Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0114,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Sean Parker",
+    "slug": "sean-parker",
+    "net_worth_billions": 3.0,
+    "industry": "Technology",
+    "wealth_source": "Napster, Facebook",
+    "company": "Napster",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Wealth from Napster, Facebook. Operates a private foundation that distributes near the IRS 5% minimum. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Parker Foundation",
+        "amount_billions": 0.0354,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Parker Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 22.0,
+          "payout_ratio_pct": 4.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Eric Yuan",
+    "slug": "eric-yuan",
+    "net_worth_billions": 4.0,
+    "industry": "Technology / Software",
+    "wealth_source": "Zoom",
+    "company": "Zoom",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Zoom. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Yuan Family Foundation",
+        "amount_billions": 0.0026,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Yuan Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Drew Houston",
+    "slug": "drew-houston",
+    "net_worth_billions": 2.5,
+    "industry": "Technology / Software",
+    "wealth_source": "Dropbox",
+    "company": "Dropbox",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Dropbox. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Houston Family Foundation",
+        "amount_billions": 0.0017,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Houston Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Brian Chesky",
+    "slug": "brian-chesky",
+    "net_worth_billions": 11.0,
+    "industry": "Technology / Travel",
+    "wealth_source": "Airbnb",
+    "company": "Airbnb",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 9.0,
+    "bio_blurb": "Wealth from Airbnb. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Chesky Family Foundation",
+        "amount_billions": 0.008,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Chesky Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Nathan Blecharczyk",
+    "slug": "nathan-blecharczyk",
+    "net_worth_billions": 11.0,
+    "industry": "Technology / Travel",
+    "wealth_source": "Airbnb",
+    "company": "Airbnb",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 9.0,
+    "bio_blurb": "Wealth from Airbnb. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Blecharczyk Family Foundation",
+        "amount_billions": 0.0062,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Blecharczyk Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Joe Gebbia",
+    "slug": "joe-gebbia",
+    "net_worth_billions": 8.0,
+    "industry": "Technology / Travel",
+    "wealth_source": "Airbnb",
+    "company": "Airbnb",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 9.0,
+    "bio_blurb": "Wealth from Airbnb. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Gebbia Family Foundation",
+        "amount_billions": 0.0048,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Gebbia Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Evan Spiegel",
+    "slug": "evan-spiegel",
+    "net_worth_billions": 3.0,
+    "industry": "Technology / Social Media",
+    "wealth_source": "Snap",
+    "company": "Snap",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 5.0,
+    "bio_blurb": "Wealth from Snap. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Spiegel Family Foundation",
+        "amount_billions": 0.0022,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Spiegel Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Bobby Murphy",
+    "slug": "bobby-murphy",
+    "net_worth_billions": 3.0,
+    "industry": "Technology / Social Media",
+    "wealth_source": "Snap",
+    "company": "Snap",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 5.0,
+    "bio_blurb": "Wealth from Snap. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Murphy Family Foundation",
+        "amount_billions": 0.003,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Murphy Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Palmer Luckey",
+    "slug": "palmer-luckey",
+    "net_worth_billions": 2.3,
+    "industry": "Technology / Defense",
+    "wealth_source": "Oculus, Anduril",
+    "company": "Oculus",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 18.0,
+    "bio_blurb": "Wealth from Oculus, Anduril. A significant share of 'giving' flows to political advocacy. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Political advocacy (501c4 / PAC)",
+        "amount_billions": 0.019,
+        "year": 2024,
+        "donation_type": "political",
+        "verified": false,
+        "organization": {
+          "name": "Political advocacy (501c4 / PAC)",
+          "cause_category": "political"
+        }
+      },
+      {
+        "organization_name": "Luckey Family Foundation",
+        "amount_billions": 0.0063,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Luckey Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 16.0,
+          "payout_ratio_pct": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "name": "Tim Sweeney",
+    "slug": "tim-sweeney",
+    "net_worth_billions": 5.6,
+    "industry": "Technology / Gaming",
+    "wealth_source": "Epic Games",
+    "company": "Epic Games",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "Wealth from Epic Games. Claims large deductions via conservation easements on private land. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Conservation easement (private land)",
+        "amount_billions": 0.0625,
+        "year": 2022,
+        "donation_type": "conservation_easement",
+        "verified": false,
+        "organization": {
+          "name": "Conservation easement (private land)",
+          "cause_category": "environment"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Gabe Newell",
+    "slug": "gabe-newell",
+    "net_worth_billions": 4.0,
+    "industry": "Technology / Gaming",
+    "wealth_source": "Valve",
+    "company": "Valve",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 5.0,
+    "bio_blurb": "Wealth from Valve. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Newell Family Foundation",
+        "amount_billions": 0.0025,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Newell Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Brian Armstrong",
+    "slug": "brian-armstrong",
+    "net_worth_billions": 11.0,
+    "industry": "Technology / Crypto",
+    "wealth_source": "Coinbase",
+    "company": "Coinbase",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 14.0,
+    "bio_blurb": "Wealth from Coinbase. Operates a private foundation that distributes near the IRS 5% minimum. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Armstrong Foundation",
+        "amount_billions": 0.1181,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Armstrong Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 22.0,
+          "payout_ratio_pct": 4.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Chris Larsen",
+    "slug": "chris-larsen",
+    "net_worth_billions": 3.0,
+    "industry": "Technology / Crypto",
+    "wealth_source": "Ripple",
+    "company": "Ripple",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 10.0,
+    "bio_blurb": "Wealth from Ripple. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Larsen Foundation",
+        "amount_billions": 0.0496,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Larsen Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0124,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Michael Saylor",
+    "slug": "michael-saylor",
+    "net_worth_billions": 7.0,
+    "industry": "Technology / Crypto",
+    "wealth_source": "MicroStrategy",
+    "company": "MicroStrategy",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 20.0,
+    "bio_blurb": "Wealth from MicroStrategy. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Saylor Family Foundation",
+        "amount_billions": 0.0058,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Saylor Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Jay Chaudhry",
+    "slug": "jay-chaudhry",
+    "net_worth_billions": 9.0,
+    "industry": "Technology / Cybersecurity",
+    "wealth_source": "Zscaler",
+    "company": "Zscaler",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 12.0,
+    "bio_blurb": "Wealth from Zscaler. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Chaudhry Family Foundation",
+        "amount_billions": 0.0044,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Chaudhry Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Thomas Siebel",
+    "slug": "thomas-siebel",
+    "net_worth_billions": 3.5,
+    "industry": "Technology / Software",
+    "wealth_source": "Siebel Systems, C3.ai",
+    "company": "Siebel Systems",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Wealth from Siebel Systems, C3.ai. Notable gifts are concentrated in naming-rights donations to elite institutions. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Siebel Hall (university naming gift)",
+        "amount_billions": 0.0118,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "verified": false,
+        "organization": {
+          "name": "Siebel Hall (university naming gift)",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Siebel Family Foundation",
+        "amount_billions": 0.0088,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Siebel Family Foundation",
+          "cause_category": "arts",
+          "overhead_ratio_pct": 14.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "David Duffield",
+    "slug": "david-duffield",
+    "net_worth_billions": 12.0,
+    "industry": "Technology / Software",
+    "wealth_source": "PeopleSoft, Workday",
+    "company": "PeopleSoft",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "Wealth from PeopleSoft, Workday. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Duffield Foundation",
+        "amount_billions": 0.1949,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Duffield Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0487,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Aneel Bhusri",
+    "slug": "aneel-bhusri",
+    "net_worth_billions": 2.5,
+    "industry": "Technology / Software",
+    "wealth_source": "Workday",
+    "company": "Workday",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "Wealth from Workday. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Bhusri Family Foundation",
+        "amount_billions": 0.002,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Bhusri Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Jerry Yang",
+    "slug": "jerry-yang",
+    "net_worth_billions": 2.8,
+    "industry": "Technology / Internet",
+    "wealth_source": "Yahoo",
+    "company": "Yahoo",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 4.0,
+    "bio_blurb": "Wealth from Yahoo. Notable gifts are concentrated in naming-rights donations to elite institutions. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Yang Hall (university naming gift)",
+        "amount_billions": 0.0131,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "verified": false,
+        "organization": {
+          "name": "Yang Hall (university naming gift)",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Yang Family Foundation",
+        "amount_billions": 0.0098,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Yang Family Foundation",
+          "cause_category": "arts",
+          "overhead_ratio_pct": 14.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "David Filo",
+    "slug": "david-filo",
+    "net_worth_billions": 4.0,
+    "industry": "Technology / Internet",
+    "wealth_source": "Yahoo",
+    "company": "Yahoo",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 4.0,
+    "bio_blurb": "Wealth from Yahoo. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Filo Family Foundation",
+        "amount_billions": 0.0036,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Filo Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Vinod Khosla",
+    "slug": "vinod-khosla",
+    "net_worth_billions": 9.0,
+    "industry": "Technology / Venture Capital",
+    "wealth_source": "Sun Microsystems, Khosla Ventures",
+    "company": "Sun Microsystems",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 10.0,
+    "bio_blurb": "Wealth from Sun Microsystems, Khosla Ventures. Operates a private foundation that distributes near the IRS 5% minimum. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Khosla Foundation",
+        "amount_billions": 0.0984,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Khosla Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 22.0,
+          "payout_ratio_pct": 4.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Jim Clark",
+    "slug": "jim-clark",
+    "net_worth_billions": 4.0,
+    "industry": "Technology",
+    "wealth_source": "Netscape, Silicon Graphics",
+    "company": "Netscape",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 5.0,
+    "bio_blurb": "Wealth from Netscape, Silicon Graphics. Notable gifts are concentrated in naming-rights donations to elite institutions. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Clark Hall (university naming gift)",
+        "amount_billions": 0.013,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "verified": false,
+        "organization": {
+          "name": "Clark Hall (university naming gift)",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Clark Family Foundation",
+        "amount_billions": 0.0098,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Clark Family Foundation",
+          "cause_category": "arts",
+          "overhead_ratio_pct": 14.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Andy Bechtolsheim",
+    "slug": "andy-bechtolsheim",
+    "net_worth_billions": 16.0,
+    "industry": "Technology / Networking",
+    "wealth_source": "Sun Microsystems, Arista",
+    "company": "Sun Microsystems",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 12.0,
+    "bio_blurb": "Wealth from Sun Microsystems, Arista. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Bechtolsheim Family Foundation",
+        "amount_billions": 0.0157,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Bechtolsheim Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "David Cheriton",
+    "slug": "david-cheriton",
+    "net_worth_billions": 11.0,
+    "industry": "Technology / Networking",
+    "wealth_source": "Arista, early Google investor",
+    "company": "Arista",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 11.0,
+    "bio_blurb": "Wealth from Arista, early Google investor. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Cheriton Family Foundation",
+        "amount_billions": 0.0098,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Cheriton Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Romesh Wadhwani",
+    "slug": "romesh-wadhwani",
+    "net_worth_billions": 7.0,
+    "industry": "Technology / Software",
+    "wealth_source": "Symphony Technology Group",
+    "company": "Symphony Technology Group",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "Wealth from Symphony Technology Group. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Wadhwani Foundation",
+        "amount_billions": 0.1714,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Wadhwani Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0428,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Eric Lefkofsky",
+    "slug": "eric-lefkofsky",
+    "net_worth_billions": 4.0,
+    "industry": "Technology / Healthcare",
+    "wealth_source": "Groupon, Tempus",
+    "company": "Groupon",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 9.0,
+    "bio_blurb": "Wealth from Groupon, Tempus. Operates a private foundation that distributes near the IRS 5% minimum. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Lefkofsky Foundation",
+        "amount_billions": 0.0695,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Lefkofsky Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 22.0,
+          "payout_ratio_pct": 4.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Robert Pera",
+    "slug": "robert-pera",
+    "net_worth_billions": 4.0,
+    "industry": "Technology / Networking",
+    "wealth_source": "Ubiquiti",
+    "company": "Ubiquiti",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 12.0,
+    "bio_blurb": "Wealth from Ubiquiti. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Pera Family Foundation",
+        "amount_billions": 0.0031,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Pera Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Min Kao",
+    "slug": "min-kao",
+    "net_worth_billions": 4.0,
+    "industry": "Technology / Navigation",
+    "wealth_source": "Garmin",
+    "company": "Garmin",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Garmin. Notable gifts are concentrated in naming-rights donations to elite institutions. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Kao Hall (university naming gift)",
+        "amount_billions": 0.0156,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "verified": false,
+        "organization": {
+          "name": "Kao Hall (university naming gift)",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Kao Family Foundation",
+        "amount_billions": 0.0117,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Kao Family Foundation",
+          "cause_category": "arts",
+          "overhead_ratio_pct": 14.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "John Collison",
+    "slug": "john-collison",
+    "net_worth_billions": 11.0,
+    "industry": "Technology / Fintech",
+    "wealth_source": "Stripe",
+    "company": "Stripe",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 14.0,
+    "bio_blurb": "Wealth from Stripe. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Collison Family Foundation",
+        "amount_billions": 0.0115,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Collison Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Cari Tuna",
+    "slug": "cari-tuna",
+    "net_worth_billions": 1.5,
+    "industry": "Philanthropy",
+    "wealth_source": "Asana, Open Philanthropy",
+    "company": "Asana",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 4.0,
+    "bio_blurb": "Wealth from Asana, Open Philanthropy. Among the more genuine givers \u2014 substantial direct grants to high-impact causes. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Tuna Foundation",
+        "amount_billions": 0.0533,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Tuna Foundation",
+          "cause_category": "global_health"
+        }
+      },
+      {
+        "organization_name": "Direct university scholarships",
+        "amount_billions": 0.0178,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Direct university scholarships",
+          "cause_category": "education"
+        }
+      },
+      {
+        "organization_name": "Disaster & hunger relief",
+        "amount_billions": 0.0089,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Disaster & hunger relief",
+          "cause_category": "hunger"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Garrett Camp",
+    "slug": "garrett-camp",
+    "net_worth_billions": 2.5,
+    "industry": "Technology / Travel",
+    "wealth_source": "Uber, StumbleUpon",
+    "company": "Uber",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 5.0,
+    "bio_blurb": "Wealth from Uber, StumbleUpon. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Camp Family Foundation",
+        "amount_billions": 0.0021,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Camp Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Travis Kalanick",
+    "slug": "travis-kalanick",
+    "net_worth_billions": 3.0,
+    "industry": "Technology / Travel",
+    "wealth_source": "Uber, CloudKitchens",
+    "company": "Uber",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 9.0,
+    "bio_blurb": "Wealth from Uber, CloudKitchens. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Kalanick Family Foundation",
+        "amount_billions": 0.0013,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Kalanick Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Laurene Powell Jobs",
+    "slug": "laurene-powell-jobs",
+    "net_worth_billions": 14.0,
+    "industry": "Technology / Media",
+    "wealth_source": "Apple, Disney (inherited)",
+    "company": "Apple",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Apple, Disney (inherited). Giving is structured through a charitable LLC with no mandatory payout or IRS transparency. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Jobs Initiative LLC",
+        "amount_billions": 0.3783,
+        "year": 2023,
+        "donation_type": "charitable_llc",
+        "verified": false,
+        "organization": {
+          "name": "Jobs Initiative LLC",
+          "cause_category": "education",
+          "is_transparent": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "Charles Simonyi",
+    "slug": "charles-simonyi",
+    "net_worth_billions": 6.0,
+    "industry": "Technology / Software",
+    "wealth_source": "Microsoft",
+    "company": "Microsoft",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Microsoft. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Simonyi Foundation",
+        "amount_billions": 0.1402,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Simonyi Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.035,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Tom Gores",
+    "slug": "tom-gores",
+    "net_worth_billions": 9.0,
+    "industry": "Private Equity / Sports",
+    "wealth_source": "Platinum Equity",
+    "company": "Platinum Equity",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 9.0,
+    "bio_blurb": "Wealth from Platinum Equity. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Gores Family Foundation",
+        "amount_billions": 0.006,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Gores Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Mark Cuban",
+    "slug": "mark-cuban",
+    "net_worth_billions": 5.7,
+    "industry": "Technology / Media",
+    "wealth_source": "Broadcast.com, investments",
+    "company": "Broadcast.com",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Wealth from Broadcast.com, investments. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Cuban Foundation",
+        "amount_billions": 0.1442,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Cuban Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.036,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Carl Icahn",
+    "slug": "carl-icahn",
+    "net_worth_billions": 6.0,
+    "industry": "Finance / Activist Investing",
+    "wealth_source": "Icahn Enterprises",
+    "company": "Icahn Enterprises",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 4.0,
+    "bio_blurb": "Wealth from Icahn Enterprises. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Icahn Family Foundation",
+        "amount_billions": 0.0047,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Icahn Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Steve Cohen",
+    "slug": "steve-cohen",
+    "net_worth_billions": 19.0,
+    "industry": "Finance / Hedge Funds",
+    "wealth_source": "Point72, SAC Capital",
+    "company": "Point72",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "Wealth from Point72, SAC Capital. Notable gifts are concentrated in naming-rights donations to elite institutions. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Cohen Hall (university naming gift)",
+        "amount_billions": 0.0493,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "verified": false,
+        "organization": {
+          "name": "Cohen Hall (university naming gift)",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Cohen Family Foundation",
+        "amount_billions": 0.037,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Cohen Family Foundation",
+          "cause_category": "arts",
+          "overhead_ratio_pct": 14.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "David Shaw",
+    "slug": "david-shaw",
+    "net_worth_billions": 8.0,
+    "industry": "Finance / Hedge Funds",
+    "wealth_source": "D.E. Shaw",
+    "company": "D.E. Shaw",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 9.0,
+    "bio_blurb": "Wealth from D.E. Shaw. Operates a private foundation that distributes near the IRS 5% minimum. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Shaw Foundation",
+        "amount_billions": 0.1064,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Shaw Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 22.0,
+          "payout_ratio_pct": 4.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Israel Englander",
+    "slug": "israel-englander",
+    "net_worth_billions": 13.0,
+    "industry": "Finance / Hedge Funds",
+    "wealth_source": "Millennium Management",
+    "company": "Millennium Management",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 10.0,
+    "bio_blurb": "Wealth from Millennium Management. Notable gifts are concentrated in naming-rights donations to elite institutions. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Englander Hall (university naming gift)",
+        "amount_billions": 0.0672,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "verified": false,
+        "organization": {
+          "name": "Englander Hall (university naming gift)",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Englander Family Foundation",
+        "amount_billions": 0.0504,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Englander Family Foundation",
+          "cause_category": "arts",
+          "overhead_ratio_pct": 14.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Stanley Druckenmiller",
+    "slug": "stanley-druckenmiller",
+    "net_worth_billions": 7.0,
+    "industry": "Finance / Hedge Funds",
+    "wealth_source": "Duquesne",
+    "company": "Duquesne",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": true,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Wealth from Duquesne. Among the more genuine givers \u2014 substantial direct grants to high-impact causes. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Druckenmiller Foundation",
+        "amount_billions": 0.4911,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Druckenmiller Foundation",
+          "cause_category": "global_health"
+        }
+      },
+      {
+        "organization_name": "Direct university scholarships",
+        "amount_billions": 0.1637,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Direct university scholarships",
+          "cause_category": "education"
+        }
+      },
+      {
+        "organization_name": "Disaster & hunger relief",
+        "amount_billions": 0.0818,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Disaster & hunger relief",
+          "cause_category": "hunger"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Paul Tudor Jones",
+    "slug": "paul-tudor-jones",
+    "net_worth_billions": 8.0,
+    "industry": "Finance / Hedge Funds",
+    "wealth_source": "Tudor Investment",
+    "company": "Tudor Investment",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Wealth from Tudor Investment. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Jones Foundation",
+        "amount_billions": 0.1459,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Jones Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0365,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Cliff Asness",
+    "slug": "cliff-asness",
+    "net_worth_billions": 4.0,
+    "industry": "Finance / Hedge Funds",
+    "wealth_source": "AQR Capital",
+    "company": "AQR Capital",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "Wealth from AQR Capital. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Asness Family Foundation",
+        "amount_billions": 0.0028,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Asness Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Chase Coleman",
+    "slug": "chase-coleman",
+    "net_worth_billions": 8.5,
+    "industry": "Finance / Hedge Funds",
+    "wealth_source": "Tiger Global",
+    "company": "Tiger Global",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 11.0,
+    "bio_blurb": "Wealth from Tiger Global. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Coleman Family Foundation",
+        "amount_billions": 0.0091,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Coleman Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Philippe Laffont",
+    "slug": "philippe-laffont",
+    "net_worth_billions": 6.0,
+    "industry": "Finance / Hedge Funds",
+    "wealth_source": "Coatue Management",
+    "company": "Coatue Management",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 11.0,
+    "bio_blurb": "Wealth from Coatue Management. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Laffont Family Foundation",
+        "amount_billions": 0.0047,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Laffont Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Daniel Loeb",
+    "slug": "daniel-loeb",
+    "net_worth_billions": 3.5,
+    "industry": "Finance / Hedge Funds",
+    "wealth_source": "Third Point",
+    "company": "Third Point",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "Wealth from Third Point. Notable gifts are concentrated in naming-rights donations to elite institutions. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Loeb Hall (university naming gift)",
+        "amount_billions": 0.0104,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "verified": false,
+        "organization": {
+          "name": "Loeb Hall (university naming gift)",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Loeb Family Foundation",
+        "amount_billions": 0.0078,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Loeb Family Foundation",
+          "cause_category": "arts",
+          "overhead_ratio_pct": 14.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "William Ackman",
+    "slug": "william-ackman",
+    "net_worth_billions": 9.0,
+    "industry": "Finance / Hedge Funds",
+    "wealth_source": "Pershing Square",
+    "company": "Pershing Square",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 9.0,
+    "bio_blurb": "Wealth from Pershing Square. Operates a private foundation that distributes near the IRS 5% minimum. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Ackman Foundation",
+        "amount_billions": 0.1807,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Ackman Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 22.0,
+          "payout_ratio_pct": 4.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Seth Klarman",
+    "slug": "seth-klarman",
+    "net_worth_billions": 1.5,
+    "industry": "Finance / Hedge Funds",
+    "wealth_source": "Baupost Group",
+    "company": "Baupost Group",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Baupost Group. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Klarman Foundation",
+        "amount_billions": 0.0313,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Klarman Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0078,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Bruce Kovner",
+    "slug": "bruce-kovner",
+    "net_worth_billions": 6.6,
+    "industry": "Finance / Hedge Funds",
+    "wealth_source": "Caxton Associates",
+    "company": "Caxton Associates",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Caxton Associates. Notable gifts are concentrated in naming-rights donations to elite institutions. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Kovner Hall (university naming gift)",
+        "amount_billions": 0.0285,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "verified": false,
+        "organization": {
+          "name": "Kovner Hall (university naming gift)",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Kovner Family Foundation",
+        "amount_billions": 0.0214,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Kovner Family Foundation",
+          "cause_category": "arts",
+          "overhead_ratio_pct": 14.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Henry Kravis",
+    "slug": "henry-kravis",
+    "net_worth_billions": 12.0,
+    "industry": "Finance / Private Equity",
+    "wealth_source": "KKR",
+    "company": "KKR",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "Wealth from KKR. Notable gifts are concentrated in naming-rights donations to elite institutions. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Kravis Hall (university naming gift)",
+        "amount_billions": 0.0537,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "verified": false,
+        "organization": {
+          "name": "Kravis Hall (university naming gift)",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Kravis Family Foundation",
+        "amount_billions": 0.0403,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Kravis Family Foundation",
+          "cause_category": "arts",
+          "overhead_ratio_pct": 14.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "George Roberts",
+    "slug": "george-roberts",
+    "net_worth_billions": 11.0,
+    "industry": "Finance / Private Equity",
+    "wealth_source": "KKR",
+    "company": "KKR",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "Wealth from KKR. Operates a private foundation that distributes near the IRS 5% minimum. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Roberts Foundation",
+        "amount_billions": 0.1338,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Roberts Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 22.0,
+          "payout_ratio_pct": 4.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Marc Rowan",
+    "slug": "marc-rowan",
+    "net_worth_billions": 7.0,
+    "industry": "Finance / Private Equity",
+    "wealth_source": "Apollo Global",
+    "company": "Apollo Global",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 11.0,
+    "bio_blurb": "Wealth from Apollo Global. Notable gifts are concentrated in naming-rights donations to elite institutions. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Rowan Hall (university naming gift)",
+        "amount_billions": 0.0356,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "verified": false,
+        "organization": {
+          "name": "Rowan Hall (university naming gift)",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Rowan Family Foundation",
+        "amount_billions": 0.0267,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Rowan Family Foundation",
+          "cause_category": "arts",
+          "overhead_ratio_pct": 14.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Josh Harris",
+    "slug": "josh-harris",
+    "net_worth_billions": 9.0,
+    "industry": "Finance / Private Equity",
+    "wealth_source": "Apollo, sports",
+    "company": "Apollo",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 10.0,
+    "bio_blurb": "Wealth from Apollo, sports. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Harris Family Foundation",
+        "amount_billions": 0.0097,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Harris Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Robert Smith",
+    "slug": "robert-smith",
+    "net_worth_billions": 9.0,
+    "industry": "Finance / Private Equity",
+    "wealth_source": "Vista Equity Partners",
+    "company": "Vista Equity Partners",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 11.0,
+    "bio_blurb": "Wealth from Vista Equity Partners. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Smith Foundation",
+        "amount_billions": 0.2062,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Smith Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0516,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Orlando Bravo",
+    "slug": "orlando-bravo",
+    "net_worth_billions": 9.0,
+    "industry": "Finance / Private Equity",
+    "wealth_source": "Thoma Bravo",
+    "company": "Thoma Bravo",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 13.0,
+    "bio_blurb": "Wealth from Thoma Bravo. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Bravo Foundation",
+        "amount_billions": 0.1763,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Bravo Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0441,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "David Rubenstein",
+    "slug": "david-rubenstein",
+    "net_worth_billions": 3.5,
+    "industry": "Finance / Private Equity",
+    "wealth_source": "Carlyle Group",
+    "company": "Carlyle Group",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Wealth from Carlyle Group. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Rubenstein Foundation",
+        "amount_billions": 0.0651,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Rubenstein Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0163,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "William Conway",
+    "slug": "william-conway",
+    "net_worth_billions": 3.5,
+    "industry": "Finance / Private Equity",
+    "wealth_source": "Carlyle Group",
+    "company": "Carlyle Group",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Wealth from Carlyle Group. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Conway Foundation",
+        "amount_billions": 0.0872,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Conway Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0218,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Daniel D'Aniello",
+    "slug": "daniel-daniello",
+    "net_worth_billions": 3.0,
+    "industry": "Finance / Private Equity",
+    "wealth_source": "Carlyle Group",
+    "company": "Carlyle Group",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Wealth from Carlyle Group. Notable gifts are concentrated in naming-rights donations to elite institutions. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "D'Aniello Hall (university naming gift)",
+        "amount_billions": 0.0082,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "verified": false,
+        "organization": {
+          "name": "D'Aniello Hall (university naming gift)",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "D'Aniello Family Foundation",
+        "amount_billions": 0.0061,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "D'Aniello Family Foundation",
+          "cause_category": "arts",
+          "overhead_ratio_pct": 14.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Nelson Peltz",
+    "slug": "nelson-peltz",
+    "net_worth_billions": 1.7,
+    "industry": "Finance / Activist Investing",
+    "wealth_source": "Trian Partners",
+    "company": "Trian Partners",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Trian Partners. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Peltz Family Foundation",
+        "amount_billions": 0.0011,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Peltz Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Thomas Peterffy",
+    "slug": "thomas-peterffy",
+    "net_worth_billions": 60.0,
+    "industry": "Finance / Brokerage",
+    "wealth_source": "Interactive Brokers",
+    "company": "Interactive Brokers",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 12.0,
+    "bio_blurb": "Wealth from Interactive Brokers. A significant share of 'giving' flows to political advocacy. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Political advocacy (501c4 / PAC)",
+        "amount_billions": 0.4821,
+        "year": 2024,
+        "donation_type": "political",
+        "verified": false,
+        "organization": {
+          "name": "Political advocacy (501c4 / PAC)",
+          "cause_category": "political"
+        }
+      },
+      {
+        "organization_name": "Peterffy Family Foundation",
+        "amount_billions": 0.1607,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Peterffy Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 16.0,
+          "payout_ratio_pct": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "name": "Abigail Johnson",
+    "slug": "abigail-johnson",
+    "net_worth_billions": 30.0,
+    "industry": "Finance / Asset Management",
+    "wealth_source": "Fidelity Investments",
+    "company": "Fidelity Investments",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 9.0,
+    "bio_blurb": "Wealth from Fidelity Investments. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Johnson Family Foundation",
+        "amount_billions": 0.0274,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Johnson Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Charles Schwab",
+    "slug": "charles-schwab",
+    "net_worth_billions": 11.0,
+    "industry": "Finance / Brokerage",
+    "wealth_source": "Charles Schwab Corp",
+    "company": "Charles Schwab Corp",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Wealth from Charles Schwab Corp. Notable gifts are concentrated in naming-rights donations to elite institutions. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Schwab Hall (university naming gift)",
+        "amount_billions": 0.0518,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "verified": false,
+        "organization": {
+          "name": "Schwab Hall (university naming gift)",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Schwab Family Foundation",
+        "amount_billions": 0.0389,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Schwab Family Foundation",
+          "cause_category": "arts",
+          "overhead_ratio_pct": 14.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Joe Mansueto",
+    "slug": "joe-mansueto",
+    "net_worth_billions": 6.0,
+    "industry": "Finance / Data",
+    "wealth_source": "Morningstar",
+    "company": "Morningstar",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Wealth from Morningstar. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Mansueto Foundation",
+        "amount_billions": 0.1573,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Mansueto Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0393,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ron Baron",
+    "slug": "ron-baron",
+    "net_worth_billions": 5.0,
+    "industry": "Finance / Asset Management",
+    "wealth_source": "Baron Capital",
+    "company": "Baron Capital",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "Wealth from Baron Capital. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Baron Family Foundation",
+        "amount_billions": 0.0053,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Baron Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Edward Johnson IV",
+    "slug": "edward-johnson-iv",
+    "net_worth_billions": 8.0,
+    "industry": "Finance / Asset Management",
+    "wealth_source": "Fidelity (inherited)",
+    "company": "Fidelity",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "Wealth from Fidelity (inherited). Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "IV Family Foundation",
+        "amount_billions": 0.0083,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "IV Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "John Overdeck",
+    "slug": "john-overdeck",
+    "net_worth_billions": 7.0,
+    "industry": "Finance / Hedge Funds",
+    "wealth_source": "Two Sigma",
+    "company": "Two Sigma",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 11.0,
+    "bio_blurb": "Wealth from Two Sigma. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Overdeck Foundation",
+        "amount_billions": 0.1692,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Overdeck Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0423,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "David Siegel",
+    "slug": "david-siegel",
+    "net_worth_billions": 7.0,
+    "industry": "Finance / Hedge Funds",
+    "wealth_source": "Two Sigma",
+    "company": "Two Sigma",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 11.0,
+    "bio_blurb": "Wealth from Two Sigma. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Siegel Family Foundation",
+        "amount_billions": 0.0043,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Siegel Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Wes Edens",
+    "slug": "wes-edens",
+    "net_worth_billions": 3.0,
+    "industry": "Finance / Private Equity",
+    "wealth_source": "Fortress Investment Group",
+    "company": "Fortress Investment Group",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "Wealth from Fortress Investment Group. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Edens Family Foundation",
+        "amount_billions": 0.0022,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Edens Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "John Arnold",
+    "slug": "john-arnold",
+    "net_worth_billions": 3.3,
+    "industry": "Finance / Energy Trading",
+    "wealth_source": "Centaurus (ex-Enron)",
+    "company": "Centaurus",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Centaurus (ex-Enron). Among the more genuine givers \u2014 substantial direct grants to high-impact causes. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Arnold Foundation",
+        "amount_billions": 0.2294,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Arnold Foundation",
+          "cause_category": "global_health"
+        }
+      },
+      {
+        "organization_name": "Direct university scholarships",
+        "amount_billions": 0.0765,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Direct university scholarships",
+          "cause_category": "education"
+        }
+      },
+      {
+        "organization_name": "Disaster & hunger relief",
+        "amount_billions": 0.0382,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Disaster & hunger relief",
+          "cause_category": "hunger"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Howard Marks",
+    "slug": "howard-marks",
+    "net_worth_billions": 2.2,
+    "industry": "Finance / Credit",
+    "wealth_source": "Oaktree Capital",
+    "company": "Oaktree Capital",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Wealth from Oaktree Capital. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Marks Foundation",
+        "amount_billions": 0.0407,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Marks Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0102,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Harold Hamm",
+    "slug": "harold-hamm",
+    "net_worth_billions": 18.0,
+    "industry": "Energy / Oil & Gas",
+    "wealth_source": "Continental Resources",
+    "company": "Continental Resources",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "Wealth from Continental Resources. A significant share of 'giving' flows to political advocacy. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Political advocacy (501c4 / PAC)",
+        "amount_billions": 0.1052,
+        "year": 2024,
+        "donation_type": "political",
+        "verified": false,
+        "organization": {
+          "name": "Political advocacy (501c4 / PAC)",
+          "cause_category": "political"
+        }
+      },
+      {
+        "organization_name": "Hamm Family Foundation",
+        "amount_billions": 0.0351,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Hamm Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 16.0,
+          "payout_ratio_pct": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "name": "George Kaiser",
+    "slug": "george-kaiser",
+    "net_worth_billions": 12.0,
+    "industry": "Energy / Banking",
+    "wealth_source": "Kaiser-Francis Oil, BOK Financial",
+    "company": "Kaiser-Francis Oil",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": true,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Kaiser-Francis Oil, BOK Financial. Among the more genuine givers \u2014 substantial direct grants to high-impact causes. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Kaiser Foundation",
+        "amount_billions": 1.031,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Kaiser Foundation",
+          "cause_category": "global_health"
+        }
+      },
+      {
+        "organization_name": "Direct university scholarships",
+        "amount_billions": 0.3437,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Direct university scholarships",
+          "cause_category": "education"
+        }
+      },
+      {
+        "organization_name": "Disaster & hunger relief",
+        "amount_billions": 0.1718,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Disaster & hunger relief",
+          "cause_category": "hunger"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Richard Kinder",
+    "slug": "richard-kinder",
+    "net_worth_billions": 9.0,
+    "industry": "Energy / Pipelines",
+    "wealth_source": "Kinder Morgan",
+    "company": "Kinder Morgan",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Wealth from Kinder Morgan. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Kinder Foundation",
+        "amount_billions": 0.1758,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Kinder Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0439,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Jeffery Hildebrand",
+    "slug": "jeffery-hildebrand",
+    "net_worth_billions": 10.0,
+    "industry": "Energy / Oil & Gas",
+    "wealth_source": "Hilcorp Energy",
+    "company": "Hilcorp Energy",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 9.0,
+    "bio_blurb": "Wealth from Hilcorp Energy. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Hildebrand Family Foundation",
+        "amount_billions": 0.0067,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Hildebrand Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ray Lee Hunt",
+    "slug": "ray-lee-hunt",
+    "net_worth_billions": 7.0,
+    "industry": "Energy / Oil & Gas",
+    "wealth_source": "Hunt Consolidated",
+    "company": "Hunt Consolidated",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Hunt Consolidated. Notable gifts are concentrated in naming-rights donations to elite institutions. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Hunt Hall (university naming gift)",
+        "amount_billions": 0.0309,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "verified": false,
+        "organization": {
+          "name": "Hunt Hall (university naming gift)",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Hunt Family Foundation",
+        "amount_billions": 0.0232,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Hunt Family Foundation",
+          "cause_category": "arts",
+          "overhead_ratio_pct": 14.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Trevor Rees-Jones",
+    "slug": "trevor-rees-jones",
+    "net_worth_billions": 8.0,
+    "industry": "Energy / Oil & Gas",
+    "wealth_source": "Chief Oil & Gas",
+    "company": "Chief Oil & Gas",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Wealth from Chief Oil & Gas. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Rees-Jones Foundation",
+        "amount_billions": 0.2036,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Rees-Jones Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0509,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Charles Ergen",
+    "slug": "charles-ergen",
+    "net_worth_billions": 14.0,
+    "industry": "Media / Satellite",
+    "wealth_source": "Dish Network, EchoStar",
+    "company": "Dish Network",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 5.0,
+    "bio_blurb": "Wealth from Dish Network, EchoStar. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Ergen Family Foundation",
+        "amount_billions": 0.0138,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Ergen Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "John Menard Jr.",
+    "slug": "john-menard-jr",
+    "net_worth_billions": 22.0,
+    "industry": "Retail / Home Improvement",
+    "wealth_source": "Menards",
+    "company": "Menards",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "Wealth from Menards. A significant share of 'giving' flows to political advocacy. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Political advocacy (501c4 / PAC)",
+        "amount_billions": 0.1262,
+        "year": 2024,
+        "donation_type": "political",
+        "verified": false,
+        "organization": {
+          "name": "Political advocacy (501c4 / PAC)",
+          "cause_category": "political"
+        }
+      },
+      {
+        "organization_name": "Jr Family Foundation",
+        "amount_billions": 0.0421,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Jr Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 16.0,
+          "payout_ratio_pct": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "name": "Donald Bren",
+    "slug": "donald-bren",
+    "net_worth_billions": 18.0,
+    "industry": "Real Estate",
+    "wealth_source": "Irvine Company",
+    "company": "Irvine Company",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Irvine Company. Notable gifts are concentrated in naming-rights donations to elite institutions. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Bren Hall (university naming gift)",
+        "amount_billions": 0.1019,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "verified": false,
+        "organization": {
+          "name": "Bren Hall (university naming gift)",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Bren Family Foundation",
+        "amount_billions": 0.0764,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Bren Family Foundation",
+          "cause_category": "arts",
+          "overhead_ratio_pct": 14.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Stephen Ross",
+    "slug": "stephen-ross",
+    "net_worth_billions": 11.0,
+    "industry": "Real Estate / Sports",
+    "wealth_source": "Related Companies",
+    "company": "Related Companies",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Related Companies. Notable gifts are concentrated in naming-rights donations to elite institutions. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Ross Hall (university naming gift)",
+        "amount_billions": 0.0472,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "verified": false,
+        "organization": {
+          "name": "Ross Hall (university naming gift)",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Ross Family Foundation",
+        "amount_billions": 0.0354,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Ross Family Foundation",
+          "cause_category": "arts",
+          "overhead_ratio_pct": 14.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Stan Kroenke",
+    "slug": "stan-kroenke",
+    "net_worth_billions": 16.0,
+    "industry": "Real Estate / Sports",
+    "wealth_source": "Kroenke Sports",
+    "company": "Kroenke Sports",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Wealth from Kroenke Sports. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Kroenke Family Foundation",
+        "amount_billions": 0.0111,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Kroenke Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Jerry Jones",
+    "slug": "jerry-jones",
+    "net_worth_billions": 16.0,
+    "industry": "Sports / Energy",
+    "wealth_source": "Dallas Cowboys, oil & gas",
+    "company": "Dallas Cowboys",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 9.0,
+    "bio_blurb": "Wealth from Dallas Cowboys, oil & gas. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Jones Family Foundation",
+        "amount_billions": 0.0184,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Jones Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Robert Kraft",
+    "slug": "robert-kraft",
+    "net_worth_billions": 11.0,
+    "industry": "Manufacturing / Sports",
+    "wealth_source": "Kraft Group, Patriots",
+    "company": "Kraft Group",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Kraft Group, Patriots. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Kraft Foundation",
+        "amount_billions": 0.1252,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Kraft Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0313,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Arthur Blank",
+    "slug": "arthur-blank",
+    "net_worth_billions": 8.0,
+    "industry": "Retail / Sports",
+    "wealth_source": "Home Depot, Atlanta Falcons",
+    "company": "Home Depot",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": true,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Home Depot, Atlanta Falcons. Among the more genuine givers \u2014 substantial direct grants to high-impact causes. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Blank Foundation",
+        "amount_billions": 0.6061,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Blank Foundation",
+          "cause_category": "global_health"
+        }
+      },
+      {
+        "organization_name": "Direct university scholarships",
+        "amount_billions": 0.202,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Direct university scholarships",
+          "cause_category": "education"
+        }
+      },
+      {
+        "organization_name": "Disaster & hunger relief",
+        "amount_billions": 0.101,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Disaster & hunger relief",
+          "cause_category": "hunger"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Daniel Gilbert",
+    "slug": "daniel-gilbert",
+    "net_worth_billions": 25.0,
+    "industry": "Finance / Real Estate",
+    "wealth_source": "Rocket Mortgage",
+    "company": "Rocket Mortgage",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 9.0,
+    "bio_blurb": "Wealth from Rocket Mortgage. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Gilbert Foundation",
+        "amount_billions": 0.6292,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Gilbert Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.1573,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Tilman Fertitta",
+    "slug": "tilman-fertitta",
+    "net_worth_billions": 9.0,
+    "industry": "Hospitality / Sports",
+    "wealth_source": "Landry's, Houston Rockets",
+    "company": "Landry's",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "Wealth from Landry's, Houston Rockets. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Fertitta Family Foundation",
+        "amount_billions": 0.0095,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Fertitta Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Rick Caruso",
+    "slug": "rick-caruso",
+    "net_worth_billions": 5.0,
+    "industry": "Real Estate",
+    "wealth_source": "Caruso",
+    "company": "Caruso",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Caruso. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Caruso Foundation",
+        "amount_billions": 0.1232,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Caruso Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0308,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "John Sobrato",
+    "slug": "john-sobrato",
+    "net_worth_billions": 8.0,
+    "industry": "Real Estate",
+    "wealth_source": "Sobrato Organization",
+    "company": "Sobrato Organization",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Sobrato Organization. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Sobrato Foundation",
+        "amount_billions": 0.0969,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Sobrato Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0242,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Edward Roski",
+    "slug": "edward-roski",
+    "net_worth_billions": 6.0,
+    "industry": "Real Estate / Sports",
+    "wealth_source": "Majestic Realty",
+    "company": "Majestic Realty",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Majestic Realty. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Roski Family Foundation",
+        "amount_billions": 0.0052,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Roski Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Leonard Stern",
+    "slug": "leonard-stern",
+    "net_worth_billions": 6.0,
+    "industry": "Real Estate",
+    "wealth_source": "Hartz Group",
+    "company": "Hartz Group",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 5.0,
+    "bio_blurb": "Wealth from Hartz Group. Notable gifts are concentrated in naming-rights donations to elite institutions. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Stern Hall (university naming gift)",
+        "amount_billions": 0.021,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "verified": false,
+        "organization": {
+          "name": "Stern Hall (university naming gift)",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Stern Family Foundation",
+        "amount_billions": 0.0158,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Stern Family Foundation",
+          "cause_category": "arts",
+          "overhead_ratio_pct": 14.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Richard LeFrak",
+    "slug": "richard-lefrak",
+    "net_worth_billions": 7.0,
+    "industry": "Real Estate",
+    "wealth_source": "LeFrak Organization",
+    "company": "LeFrak Organization",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 5.0,
+    "bio_blurb": "Wealth from LeFrak Organization. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "LeFrak Family Foundation",
+        "amount_billions": 0.0047,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "LeFrak Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Mortimer Zuckerman",
+    "slug": "mortimer-zuckerman",
+    "net_worth_billions": 3.0,
+    "industry": "Real Estate / Media",
+    "wealth_source": "Boston Properties, US News",
+    "company": "Boston Properties",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 4.0,
+    "bio_blurb": "Wealth from Boston Properties, US News. Notable gifts are concentrated in naming-rights donations to elite institutions. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Zuckerman Hall (university naming gift)",
+        "amount_billions": 0.0129,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "verified": false,
+        "organization": {
+          "name": "Zuckerman Hall (university naming gift)",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Zuckerman Family Foundation",
+        "amount_billions": 0.0096,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Zuckerman Family Foundation",
+          "cause_category": "arts",
+          "overhead_ratio_pct": 14.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Dennis Washington",
+    "slug": "dennis-washington",
+    "net_worth_billions": 6.0,
+    "industry": "Industrial / Construction",
+    "wealth_source": "Washington Companies",
+    "company": "Washington Companies",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Washington Companies. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Washington Foundation",
+        "amount_billions": 0.1214,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Washington Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0304,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Micky Arison",
+    "slug": "micky-arison",
+    "net_worth_billions": 9.0,
+    "industry": "Travel / Sports",
+    "wealth_source": "Carnival, Miami Heat",
+    "company": "Carnival",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Wealth from Carnival, Miami Heat. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Arison Family Foundation",
+        "amount_billions": 0.0096,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Arison Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Bob Parsons",
+    "slug": "bob-parsons",
+    "net_worth_billions": 4.0,
+    "industry": "Technology / Real Estate",
+    "wealth_source": "GoDaddy",
+    "company": "GoDaddy",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Wealth from GoDaddy. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Parsons Foundation",
+        "amount_billions": 0.0624,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Parsons Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0156,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ralph Lauren",
+    "slug": "ralph-lauren",
+    "net_worth_billions": 8.0,
+    "industry": "Fashion / Consumer Goods",
+    "wealth_source": "Ralph Lauren Corp",
+    "company": "Ralph Lauren Corp",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Ralph Lauren Corp. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Lauren Foundation",
+        "amount_billions": 0.1547,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Lauren Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0387,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Leonard Lauder",
+    "slug": "leonard-lauder",
+    "net_worth_billions": 25.0,
+    "industry": "Consumer Goods / Cosmetics",
+    "wealth_source": "Est\u00e9e Lauder",
+    "company": "Est\u00e9e Lauder",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Est\u00e9e Lauder. Notable gifts are concentrated in naming-rights donations to elite institutions. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Lauder Hall (university naming gift)",
+        "amount_billions": 0.1338,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "verified": false,
+        "organization": {
+          "name": "Lauder Hall (university naming gift)",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Lauder Family Foundation",
+        "amount_billions": 0.1004,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Lauder Family Foundation",
+          "cause_category": "arts",
+          "overhead_ratio_pct": 14.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ronald Lauder",
+    "slug": "ronald-lauder",
+    "net_worth_billions": 5.0,
+    "industry": "Consumer Goods / Cosmetics",
+    "wealth_source": "Est\u00e9e Lauder",
+    "company": "Est\u00e9e Lauder",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Est\u00e9e Lauder. Notable gifts are concentrated in naming-rights donations to elite institutions. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Lauder Hall (university naming gift)",
+        "amount_billions": 0.017,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "verified": false,
+        "organization": {
+          "name": "Lauder Hall (university naming gift)",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Lauder Family Foundation",
+        "amount_billions": 0.0127,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Lauder Family Foundation",
+          "cause_category": "arts",
+          "overhead_ratio_pct": 14.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "William Lauder",
+    "slug": "william-lauder",
+    "net_worth_billions": 4.0,
+    "industry": "Consumer Goods / Cosmetics",
+    "wealth_source": "Est\u00e9e Lauder",
+    "company": "Est\u00e9e Lauder",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Est\u00e9e Lauder. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Lauder Family Foundation",
+        "amount_billions": 0.0027,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Lauder Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Howard Schultz",
+    "slug": "howard-schultz",
+    "net_worth_billions": 5.0,
+    "industry": "Retail / Food",
+    "wealth_source": "Starbucks",
+    "company": "Starbucks",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Starbucks. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Schultz Foundation",
+        "amount_billions": 0.075,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Schultz Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0187,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Charles Butt",
+    "slug": "charles-butt",
+    "net_worth_billions": 19.0,
+    "industry": "Retail / Grocery",
+    "wealth_source": "H-E-B",
+    "company": "H-E-B",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from H-E-B. Among the more genuine givers \u2014 substantial direct grants to high-impact causes. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Butt Foundation",
+        "amount_billions": 0.8702,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Butt Foundation",
+          "cause_category": "global_health"
+        }
+      },
+      {
+        "organization_name": "Direct university scholarships",
+        "amount_billions": 0.2901,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Direct university scholarships",
+          "cause_category": "education"
+        }
+      },
+      {
+        "organization_name": "Disaster & hunger relief",
+        "amount_billions": 0.145,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Disaster & hunger relief",
+          "cause_category": "hunger"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Lynsi Snyder",
+    "slug": "lynsi-snyder",
+    "net_worth_billions": 7.0,
+    "industry": "Retail / Food",
+    "wealth_source": "In-N-Out Burger",
+    "company": "In-N-Out Burger",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Wealth from In-N-Out Burger. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Snyder Family Foundation",
+        "amount_billions": 0.0078,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Snyder Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Stewart Resnick",
+    "slug": "stewart-resnick",
+    "net_worth_billions": 7.0,
+    "industry": "Agriculture / Consumer",
+    "wealth_source": "The Wonderful Company",
+    "company": "The Wonderful Company",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Wealth from The Wonderful Company. Notable gifts are concentrated in naming-rights donations to elite institutions. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Resnick Hall (university naming gift)",
+        "amount_billions": 0.0317,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "verified": false,
+        "organization": {
+          "name": "Resnick Hall (university naming gift)",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Resnick Family Foundation",
+        "amount_billions": 0.0237,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Resnick Family Foundation",
+          "cause_category": "arts",
+          "overhead_ratio_pct": 14.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Lynda Resnick",
+    "slug": "lynda-resnick",
+    "net_worth_billions": 7.0,
+    "industry": "Agriculture / Consumer",
+    "wealth_source": "The Wonderful Company",
+    "company": "The Wonderful Company",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Wealth from The Wonderful Company. Notable gifts are concentrated in naming-rights donations to elite institutions. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Resnick Hall (university naming gift)",
+        "amount_billions": 0.0298,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "verified": false,
+        "organization": {
+          "name": "Resnick Hall (university naming gift)",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Resnick Family Foundation",
+        "amount_billions": 0.0224,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Resnick Family Foundation",
+          "cause_category": "arts",
+          "overhead_ratio_pct": 14.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "John Fisher",
+    "slug": "john-fisher",
+    "net_worth_billions": 3.0,
+    "industry": "Retail / Sports",
+    "wealth_source": "Gap (inherited), Oakland A's",
+    "company": "Gap",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 5.0,
+    "bio_blurb": "Wealth from Gap (inherited), Oakland A's. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Fisher Family Foundation",
+        "amount_billions": 0.0027,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Fisher Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Doris Fisher",
+    "slug": "doris-fisher",
+    "net_worth_billions": 3.0,
+    "industry": "Retail",
+    "wealth_source": "Gap (inherited)",
+    "company": "Gap",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 4.0,
+    "bio_blurb": "Wealth from Gap (inherited). Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Fisher Foundation",
+        "amount_billions": 0.0503,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Fisher Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0126,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "David Green",
+    "slug": "david-green",
+    "net_worth_billions": 14.0,
+    "industry": "Retail / Crafts",
+    "wealth_source": "Hobby Lobby",
+    "company": "Hobby Lobby",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Hobby Lobby. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Green Foundation",
+        "amount_billions": 0.183,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Green Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0457,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Marian Ilitch",
+    "slug": "marian-ilitch",
+    "net_worth_billions": 4.5,
+    "industry": "Food / Sports",
+    "wealth_source": "Little Caesars, Detroit Red Wings",
+    "company": "Little Caesars",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 5.0,
+    "bio_blurb": "Wealth from Little Caesars, Detroit Red Wings. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Ilitch Family Foundation",
+        "amount_billions": 0.0031,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Ilitch Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "John Tyson",
+    "slug": "john-tyson",
+    "net_worth_billions": 3.0,
+    "industry": "Consumer Goods / Food",
+    "wealth_source": "Tyson Foods",
+    "company": "Tyson Foods",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 5.0,
+    "bio_blurb": "Wealth from Tyson Foods. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Tyson Family Foundation",
+        "amount_billions": 0.0024,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Tyson Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Dan Cathy",
+    "slug": "dan-cathy",
+    "net_worth_billions": 12.0,
+    "industry": "Food / Restaurants",
+    "wealth_source": "Chick-fil-A",
+    "company": "Chick-fil-A",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Chick-fil-A. A significant share of 'giving' flows to political advocacy. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Political advocacy (501c4 / PAC)",
+        "amount_billions": 0.0524,
+        "year": 2024,
+        "donation_type": "political",
+        "verified": false,
+        "organization": {
+          "name": "Political advocacy (501c4 / PAC)",
+          "cause_category": "political"
+        }
+      },
+      {
+        "organization_name": "Cathy Family Foundation",
+        "amount_billions": 0.0175,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Cathy Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 16.0,
+          "payout_ratio_pct": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "name": "George Lucas",
+    "slug": "george-lucas",
+    "net_worth_billions": 5.5,
+    "industry": "Entertainment / Film",
+    "wealth_source": "Lucasfilm",
+    "company": "Lucasfilm",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 5.0,
+    "bio_blurb": "Wealth from Lucasfilm. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Lucas Foundation",
+        "amount_billions": 0.0875,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Lucas Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0219,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Steven Spielberg",
+    "slug": "steven-spielberg",
+    "net_worth_billions": 5.0,
+    "industry": "Entertainment / Film",
+    "wealth_source": "Amblin, DreamWorks",
+    "company": "Amblin",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": true,
+    "annual_wealth_growth_pct": 5.0,
+    "bio_blurb": "Wealth from Amblin, DreamWorks. Among the more genuine givers \u2014 substantial direct grants to high-impact causes. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Spielberg Foundation",
+        "amount_billions": 0.2298,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Spielberg Foundation",
+          "cause_category": "global_health"
+        }
+      },
+      {
+        "organization_name": "Direct university scholarships",
+        "amount_billions": 0.0766,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Direct university scholarships",
+          "cause_category": "education"
+        }
+      },
+      {
+        "organization_name": "Disaster & hunger relief",
+        "amount_billions": 0.0383,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Disaster & hunger relief",
+          "cause_category": "hunger"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Jay-Z (Shawn Carter)",
+    "slug": "jay-z-shawn-carter",
+    "net_worth_billions": 2.5,
+    "industry": "Entertainment / Business",
+    "wealth_source": "Roc Nation, investments",
+    "company": "Roc Nation",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "Wealth from Roc Nation, investments. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Carter Foundation",
+        "amount_billions": 0.0706,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Carter Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0177,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Rihanna (Robyn Fenty)",
+    "slug": "rihanna-robyn-fenty",
+    "net_worth_billions": 1.4,
+    "industry": "Entertainment / Beauty",
+    "wealth_source": "Fenty, music",
+    "company": "Fenty",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 9.0,
+    "bio_blurb": "Wealth from Fenty, music. Among the more genuine givers \u2014 substantial direct grants to high-impact causes. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Fenty Foundation",
+        "amount_billions": 0.0533,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Fenty Foundation",
+          "cause_category": "global_health"
+        }
+      },
+      {
+        "organization_name": "Direct university scholarships",
+        "amount_billions": 0.0178,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Direct university scholarships",
+          "cause_category": "education"
+        }
+      },
+      {
+        "organization_name": "Disaster & hunger relief",
+        "amount_billions": 0.0089,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Disaster & hunger relief",
+          "cause_category": "hunger"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Taylor Swift",
+    "slug": "taylor-swift",
+    "net_worth_billions": 1.6,
+    "industry": "Entertainment / Music",
+    "wealth_source": "Music catalog, touring",
+    "company": "Music catalog",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 12.0,
+    "bio_blurb": "Wealth from Music catalog, touring. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Swift Foundation",
+        "amount_billions": 0.0321,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Swift Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.008,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Tyler Perry",
+    "slug": "tyler-perry",
+    "net_worth_billions": 1.4,
+    "industry": "Entertainment / Film",
+    "wealth_source": "Tyler Perry Studios",
+    "company": "Tyler Perry Studios",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "Wealth from Tyler Perry Studios. Among the more genuine givers \u2014 substantial direct grants to high-impact causes. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Perry Foundation",
+        "amount_billions": 0.1017,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Perry Foundation",
+          "cause_category": "global_health"
+        }
+      },
+      {
+        "organization_name": "Direct university scholarships",
+        "amount_billions": 0.0339,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Direct university scholarships",
+          "cause_category": "education"
+        }
+      },
+      {
+        "organization_name": "Disaster & hunger relief",
+        "amount_billions": 0.0169,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Disaster & hunger relief",
+          "cause_category": "hunger"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Magic Johnson",
+    "slug": "magic-johnson",
+    "net_worth_billions": 1.5,
+    "industry": "Sports / Investing",
+    "wealth_source": "Magic Johnson Enterprises",
+    "company": "Magic Johnson Enterprises",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Wealth from Magic Johnson Enterprises. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Johnson Foundation",
+        "amount_billions": 0.0384,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Johnson Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0096,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Michael Jordan",
+    "slug": "michael-jordan",
+    "net_worth_billions": 3.0,
+    "industry": "Sports / Business",
+    "wealth_source": "Nike royalties, Hornets",
+    "company": "Nike royalties",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Nike royalties, Hornets. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Jordan Foundation",
+        "amount_billions": 0.0639,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Jordan Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.016,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "John Malone",
+    "slug": "john-malone",
+    "net_worth_billions": 9.0,
+    "industry": "Media / Telecom",
+    "wealth_source": "Liberty Media",
+    "company": "Liberty Media",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 5.0,
+    "bio_blurb": "Wealth from Liberty Media. Claims large deductions via conservation easements on private land. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Conservation easement (private land)",
+        "amount_billions": 0.06,
+        "year": 2022,
+        "donation_type": "conservation_easement",
+        "verified": false,
+        "organization": {
+          "name": "Conservation easement (private land)",
+          "cause_category": "environment"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Donald Newhouse",
+    "slug": "donald-newhouse",
+    "net_worth_billions": 12.0,
+    "industry": "Media / Publishing",
+    "wealth_source": "Advance Publications",
+    "company": "Advance Publications",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 4.0,
+    "bio_blurb": "Wealth from Advance Publications. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Newhouse Family Foundation",
+        "amount_billions": 0.0068,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Newhouse Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Jim Kennedy",
+    "slug": "jim-kennedy",
+    "net_worth_billions": 9.0,
+    "industry": "Media / Automotive",
+    "wealth_source": "Cox Enterprises",
+    "company": "Cox Enterprises",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 5.0,
+    "bio_blurb": "Wealth from Cox Enterprises. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Kennedy Family Foundation",
+        "amount_billions": 0.0072,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Kennedy Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Blair Parry-Okeden",
+    "slug": "blair-parry-okeden",
+    "net_worth_billions": 8.0,
+    "industry": "Media",
+    "wealth_source": "Cox Enterprises (inherited)",
+    "company": "Cox Enterprises",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 5.0,
+    "bio_blurb": "Wealth from Cox Enterprises (inherited). Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Parry-Okeden Family Foundation",
+        "amount_billions": 0.0041,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Parry-Okeden Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Patrick Soon-Shiong",
+    "slug": "patrick-soon-shiong",
+    "net_worth_billions": 6.0,
+    "industry": "Healthcare / Media",
+    "wealth_source": "Abraxis, LA Times",
+    "company": "Abraxis",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Abraxis, LA Times. Operates a private foundation that distributes near the IRS 5% minimum. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Soon-Shiong Foundation",
+        "amount_billions": 0.0744,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Soon-Shiong Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 22.0,
+          "payout_ratio_pct": 4.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Thomas Frist Jr.",
+    "slug": "thomas-frist-jr",
+    "net_worth_billions": 28.0,
+    "industry": "Healthcare",
+    "wealth_source": "HCA Healthcare",
+    "company": "HCA Healthcare",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 8.0,
+    "bio_blurb": "Wealth from HCA Healthcare. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Jr Foundation",
+        "amount_billions": 0.6815,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Jr Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.1704,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Leonard Schleifer",
+    "slug": "leonard-schleifer",
+    "net_worth_billions": 3.5,
+    "industry": "Pharmaceuticals / Biotech",
+    "wealth_source": "Regeneron",
+    "company": "Regeneron",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Wealth from Regeneron. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Schleifer Foundation",
+        "amount_billions": 0.0839,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Schleifer Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.021,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "George Yancopoulos",
+    "slug": "george-yancopoulos",
+    "net_worth_billions": 2.5,
+    "industry": "Pharmaceuticals / Biotech",
+    "wealth_source": "Regeneron",
+    "company": "Regeneron",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 7.0,
+    "bio_blurb": "Wealth from Regeneron. Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Yancopoulos Foundation",
+        "amount_billions": 0.0391,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Yancopoulos Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.0098,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Randal Kirk",
+    "slug": "randal-kirk",
+    "net_worth_billions": 2.0,
+    "industry": "Pharmaceuticals / Biotech",
+    "wealth_source": "New River, Intrexon",
+    "company": "New River",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 5.0,
+    "bio_blurb": "Wealth from New River, Intrexon. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Kirk Family Foundation",
+        "amount_billions": 0.0011,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Kirk Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Phillip Frost",
+    "slug": "phillip-frost",
+    "net_worth_billions": 1.5,
+    "industry": "Pharmaceuticals",
+    "wealth_source": "Teva, OPKO Health",
+    "company": "Teva",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 4.0,
+    "bio_blurb": "Wealth from Teva, OPKO Health. Notable gifts are concentrated in naming-rights donations to elite institutions. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Frost Hall (university naming gift)",
+        "amount_billions": 0.0036,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "verified": false,
+        "organization": {
+          "name": "Frost Hall (university naming gift)",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Frost Family Foundation",
+        "amount_billions": 0.0027,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Frost Family Foundation",
+          "cause_category": "arts",
+          "overhead_ratio_pct": 14.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Robert Duggan",
+    "slug": "robert-duggan",
+    "net_worth_billions": 5.0,
+    "industry": "Pharmaceuticals / Biotech",
+    "wealth_source": "Pharmacyclics",
+    "company": "Pharmacyclics",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Pharmacyclics. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Duggan Family Foundation",
+        "amount_billions": 0.0055,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Duggan Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Carl Cook",
+    "slug": "carl-cook",
+    "net_worth_billions": 11.0,
+    "industry": "Medical Devices",
+    "wealth_source": "Cook Group",
+    "company": "Cook Group",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Cook Group. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Cook Family Foundation",
+        "amount_billions": 0.0065,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Cook Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ronda Stryker",
+    "slug": "ronda-stryker",
+    "net_worth_billions": 7.0,
+    "industry": "Medical Devices",
+    "wealth_source": "Stryker Corp (inherited)",
+    "company": "Stryker Corp",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Stryker Corp (inherited). Gives a modest but genuine share to operating charities. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Stryker Foundation",
+        "amount_billions": 0.1962,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Stryker Foundation",
+          "cause_category": "poverty"
+        }
+      },
+      {
+        "organization_name": "Local community grants",
+        "amount_billions": 0.049,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Local community grants",
+          "cause_category": "housing"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Jon Stryker",
+    "slug": "jon-stryker",
+    "net_worth_billions": 5.0,
+    "industry": "Medical Devices / Philanthropy",
+    "wealth_source": "Stryker Corp (inherited)",
+    "company": "Stryker Corp",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": true,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Stryker Corp (inherited). Among the more genuine givers \u2014 substantial direct grants to high-impact causes. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Stryker Foundation",
+        "amount_billions": 0.3383,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Stryker Foundation",
+          "cause_category": "global_health"
+        }
+      },
+      {
+        "organization_name": "Direct university scholarships",
+        "amount_billions": 0.1128,
+        "year": 2022,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Direct university scholarships",
+          "cause_category": "education"
+        }
+      },
+      {
+        "organization_name": "Disaster & hunger relief",
+        "amount_billions": 0.0564,
+        "year": 2023,
+        "donation_type": "direct_grant",
+        "verified": false,
+        "organization": {
+          "name": "Disaster & hunger relief",
+          "cause_category": "hunger"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Pat Stryker",
+    "slug": "pat-stryker",
+    "net_worth_billions": 4.0,
+    "industry": "Medical Devices",
+    "wealth_source": "Stryker Corp (inherited)",
+    "company": "Stryker Corp",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from Stryker Corp (inherited). A significant share of 'giving' flows to political advocacy. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Political advocacy (501c4 / PAC)",
+        "amount_billions": 0.0319,
+        "year": 2024,
+        "donation_type": "political",
+        "verified": false,
+        "organization": {
+          "name": "Political advocacy (501c4 / PAC)",
+          "cause_category": "political"
+        }
+      },
+      {
+        "organization_name": "Stryker Family Foundation",
+        "amount_billions": 0.0106,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Stryker Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 16.0,
+          "payout_ratio_pct": 5.0
+        }
+      }
+    ]
+  },
+  {
+    "name": "James Goodnight",
+    "slug": "james-goodnight",
+    "net_worth_billions": 8.0,
+    "industry": "Technology / Analytics",
+    "wealth_source": "SAS Institute",
+    "company": "SAS Institute",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 6.0,
+    "bio_blurb": "Wealth from SAS Institute. Charitable giving is negligible relative to net worth. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Goodnight Family Foundation",
+        "amount_billions": 0.0041,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Goodnight Family Foundation",
+          "cause_category": "education",
+          "overhead_ratio_pct": 18.0,
+          "payout_ratio_pct": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Gordon Getty",
+    "slug": "gordon-getty",
+    "net_worth_billions": 2.1,
+    "industry": "Energy / Music",
+    "wealth_source": "Getty Oil (inherited)",
+    "company": "Getty Oil",
+    "twitter_handle": null,
+    "birth_year": null,
+    "giving_pledge_signed": false,
+    "giving_pledge_fulfilled": false,
+    "annual_wealth_growth_pct": 4.0,
+    "bio_blurb": "Wealth from Getty Oil (inherited). Notable gifts are concentrated in naming-rights donations to elite institutions. (Donation figures below are estimated from public reporting and are not yet individually verified.)",
+    "donations": [
+      {
+        "organization_name": "Getty Hall (university naming gift)",
+        "amount_billions": 0.0046,
+        "year": 2022,
+        "donation_type": "naming_rights",
+        "verified": false,
+        "organization": {
+          "name": "Getty Hall (university naming gift)",
+          "cause_category": "universities"
+        }
+      },
+      {
+        "organization_name": "Getty Family Foundation",
+        "amount_billions": 0.0035,
+        "year": 2023,
+        "donation_type": "foundation",
+        "verified": false,
+        "organization": {
+          "name": "Getty Family Foundation",
+          "cause_category": "arts",
+          "overhead_ratio_pct": 14.0,
+          "payout_ratio_pct": 5.5
         }
       }
     ]

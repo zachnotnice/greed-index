@@ -2,7 +2,8 @@
 
 import { useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { api, ImpactMetric } from "@/lib/api";
+import type { ImpactMetric } from "@/lib/api";
+import { calculateImpact } from "@/lib/calc";
 
 interface ImpactCalculatorProps {
   defaultAmount?: number;
@@ -17,17 +18,11 @@ export default function ImpactCalculator({
   const [metrics, setMetrics] = useState<ImpactMetric[]>([]);
   const [loading, setLoading] = useState(false);
 
-  const calculate = useCallback(async (val: number) => {
+  const calculate = useCallback((val: number) => {
     if (val <= 0) return;
     setLoading(true);
-    try {
-      const result = await api.getImpact(val);
-      setMetrics(result.metrics);
-    } catch (e) {
-      console.error(e);
-    } finally {
-      setLoading(false);
-    }
+    setMetrics(calculateImpact(val));
+    setLoading(false);
   }, []);
 
   const PRESETS = [

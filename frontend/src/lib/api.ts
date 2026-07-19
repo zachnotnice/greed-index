@@ -1,8 +1,17 @@
-// Default to 127.0.0.1 (not "localhost") for local dev: Node's server-side
-// fetch resolves "localhost" to IPv6 ::1 first, but the dev backend binds
-// IPv4, which makes server-component data fetches hang. Production sets
-// NEXT_PUBLIC_API_URL to the real API origin.
-const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://127.0.0.1:8000";
+// Static data layer.
+//
+// The site ships with a precomputed dataset (src/data/greed-data.json, produced
+// by `python -m data.export_static` in the backend) instead of calling a live
+// API. These functions read from that JSON, so there is no backend server to
+// run or host. To update the data: edit the seed, re-run the export script, and
+// commit the regenerated greed-data.json.
+//
+// NOTE: this module statically imports the ~700 KB dataset, so it must only be
+// imported by SERVER components (the home and profile pages). Client components
+// use pure helpers in ./calc instead. Types below are safe to import anywhere
+// via `import type`.
+
+import greedData from "@/data/greed-data.json";
 
 export interface BillionaireListItem {
   id: number;
@@ -86,37 +95,48 @@ export interface Stats {
   industry_breakdown: Array<{ industry: string; count: number; avg_greed_score: number }>;
 }
 
-async function fetchAPI<T>(path: string): Promise<T> {
-  const res = await fetch(`${API_BASE}${path}`, { next: { revalidate: 300 } });
-  if (!res.ok) throw new Error(`API error: ${res.status}`);
-  return res.json();
+interface GreedData {
+  generated_at: string;
+  leaderboard: LeaderboardResponse;
+  stats: Stats;
+  billionaires: Record<string, BillionaireDetail>;
 }
 
+const data = greedData as unknown as GreedData;
+
 export const api = {
-  getLeaderboard: (params?: { industry?: string; sort_by?: string; limit?: number }) => {
-    const qs = new URLSearchParams();
-    if (params?.industry) qs.set("industry", params.industry);
-    if (params?.sort_by) qs.set("sort_by", params.sort_by);
-    if (params?.limit) qs.set("limit", String(params.limit));
-    return fetchAPI<LeaderboardResponse>(`/api/leaderboard?${qs}`);
+  getLeaderboard: async (params?: {
+    industry?: string;
+    sort_by?: "greed" | "net_worth" | "giving_ratio";
+    limit?: number;
+  }): Promise<LeaderboardResponse> => {
+    let list = [...data.leaderboard.billionaires];
+
+    if (params?.industry) {
+      const needle = params.industry.toLowerCase();
+      list = list.filter((b) => b.industry.toLowerCase().includes(needle));
+    }
+
+    const sortBy = params?.sort_by ?? "greed";
+    if (sortBy === "greed") {
+      list.sort((a, b) => (a.greed_rank ?? 9999) - (b.greed_rank ?? 9999));
+    } else if (sortBy === "net_worth") {
+      list.sort((a, b) => b.net_worth_billions - a.net_worth_billions);
+    } else if (sortBy === "giving_ratio") {
+      list.sort((a, b) => (a.giving_ratio_pct ?? 0) - (b.giving_ratio_pct ?? 0));
+    }
+
+    const total = list.length;
+    if (params?.limit != null) list = list.slice(0, params.limit);
+
+    return { total, billionaires: list, last_updated: data.leaderboard.last_updated };
   },
 
-  getBillionaire: (slug: string) =>
-    fetchAPI<BillionaireDetail>(`/api/billionaires/${slug}`),
+  getBillionaire: async (slug: string): Promise<BillionaireDetail> => {
+    const b = data.billionaires[slug];
+    if (!b) throw new Error(`Billionaire not found: ${slug}`);
+    return b;
+  },
 
-  getImpact: (amountBillions: number) =>
-    fetchAPI<{ amount_billions: number; metrics: ImpactMetric[] }>(
-      `/api/impact?amount_billions=${amountBillions}`
-    ),
-
-  getMoveUp: (slug: string, targetRank: number) =>
-    fetchAPI<{
-      current_rank: number;
-      target_rank: number;
-      additional_giving_needed_billions: number | null;
-      already_there: boolean;
-      message: string;
-    }>(`/api/billionaires/${slug}/move-up?target_rank=${targetRank}`),
-
-  getStats: () => fetchAPI<Stats>("/api/stats"),
+  getStats: async (): Promise<Stats> => data.stats,
 };

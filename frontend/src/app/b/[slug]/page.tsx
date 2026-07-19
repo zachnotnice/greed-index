@@ -39,6 +39,12 @@ export default async function BillionairePage({ params }: Props) {
     notFound();
   }
 
+  // Scores ordered by rank (index 0 = rank #1), for the Move-Up simulator.
+  const leaderboard = await api.getLeaderboard({ limit: 200 });
+  const scoresByRank = [...leaderboard.billionaires]
+    .sort((a, b) => (a.greed_rank ?? 9999) - (b.greed_rank ?? 9999))
+    .map((x) => x.greed_score ?? 0);
+
   const score = b.latest_score?.score ?? 50;
   const tier = getTier(score);
   const color = getScoreColor(score);
@@ -275,10 +281,11 @@ export default async function BillionairePage({ params }: Props) {
       {b.greed_rank && b.greed_rank > 1 && (
         <div className="mb-8">
           <MoveUpSimulator
-            slug={b.slug}
             currentRank={b.greed_rank}
             name={b.name}
             netWorthBillions={b.net_worth_billions}
+            currentGenuineBillions={b.adjusted_giving_billions ?? 0}
+            scoresByRank={scoresByRank}
           />
         </div>
       )}

@@ -2,34 +2,42 @@
 
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { api } from "@/lib/api";
+import { whatWouldItTake, type MoveUpResult } from "@/lib/calc";
 
 interface MoveUpSimulatorProps {
-  slug: string;
   currentRank: number;
   name: string;
   netWorthBillions: number;
+  // Genuine (post-loophole) giving in billions, and all scores ordered by rank
+  // (index 0 = rank #1). Provided by the server-rendered profile page.
+  currentGenuineBillions: number;
+  scoresByRank: number[];
 }
 
-export default function MoveUpSimulator({ slug, currentRank, name, netWorthBillions }: MoveUpSimulatorProps) {
+export default function MoveUpSimulator({
+  currentRank,
+  name,
+  netWorthBillions,
+  currentGenuineBillions,
+  scoresByRank,
+}: MoveUpSimulatorProps) {
   const [targetRank, setTargetRank] = useState(Math.max(1, currentRank - 10));
-  const [result, setResult] = useState<{
-    message: string;
-    additional_giving_needed_billions: number | null;
-    already_there: boolean;
-  } | null>(null);
+  const [result, setResult] = useState<MoveUpResult | null>(null);
   const [loading, setLoading] = useState(false);
 
-  const simulate = async () => {
+  const simulate = () => {
     setLoading(true);
-    try {
-      const data = await api.getMoveUp(slug, targetRank);
-      setResult(data);
-    } catch (e) {
-      console.error(e);
-    } finally {
-      setLoading(false);
-    }
+    setResult(
+      whatWouldItTake({
+        name,
+        currentRank,
+        targetRank,
+        netWorthBillions,
+        currentGenuineBillions,
+        scoresByRank,
+      })
+    );
+    setLoading(false);
   };
 
   const impactOfNeeded = result?.additional_giving_needed_billions

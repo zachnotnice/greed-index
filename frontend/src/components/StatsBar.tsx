@@ -1,4 +1,4 @@
-import { Stats } from "@/lib/api";
+import type { Stats } from "@/lib/api";
 
 interface StatsBarProps {
   stats: Stats;

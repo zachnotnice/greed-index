@@ -3,7 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import { motion } from "framer-motion";
-import { BillionaireListItem } from "@/lib/api";
+import type { BillionaireListItem } from "@/lib/api";
 import GreedMeter from "./GreedMeter";
 import { getScoreColor, getTier } from "@/lib/tiers";
 import clsx from "clsx";
